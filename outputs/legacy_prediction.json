@@ -1,0 +1,27 @@
+{
+  "visit": "items_201902181020",
+  "prefix_including_event_index": 10,
+  "predictions": [
+    {
+      "poi_id": "0_0801",
+      "logit": 9.669243812561035
+    },
+    {
+      "poi_id": "0_0337",
+      "logit": 8.449132919311523
+    },
+    {
+      "poi_id": "0_0334",
+      "logit": 7.841372013092041
+    },
+    {
+      "poi_id": "0_0803",
+      "logit": 7.82863187789917
+    },
+    {
+      "poi_id": "0_0809",
+      "logit": 7.0140581130981445
+    }
+  ],
+  "note": "Only the prefix is passed into the model; the true next POI is not read in this function."
+}

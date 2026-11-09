@@ -1,0 +1,15 @@
+> **Version initiale conservée pour traçabilité.** Les passages sur l’encodeur à un saut et les dimensions du graphe décrivent le mode historique `full`. Pour la version hétérogène v2, voir [HETEROGENEOUS.md](HETEROGENEOUS.md) et le [README actuel](../README.md). Les définitions des préfixes, pertes et métriques restent applicables.
+
+# Carte de modèle - STKG_CLL_POI, v1.0
+
+**Tâche.** À partir des événements déjà commencés dans une visite BIRD, classer les 359 œuvres catalogue comme prochaine œuvre dont le visiteur commencera l'observation. Ce n'est ni une recommandation d'œuvre à visiter, ni une estimation d'intérêt personnel, ni une preuve d'effet causal de la sémantique.
+
+**Entrées opérationnelles.** Préfixe POI, début de chaque événement du préfixe et durées antérieures mesurées/reconstruites au moyen du seul passé, plus un graphe figé appris sur les visiteurs train. Sujet principal/secondaire et salle sont statiques ; descriptions/images/styles ne sont pas encodés. Le code `predict` utilise un préfixe d'une visite déjà préparée et ne lit pas son POI suivant, mais le système n'est pas déployé en temps réel.
+
+**Architecture effectivement implémentée.** Agrégation relationnelle à un saut sur 359 POI / 37 salles / 9 catégories de sujet et 2 218 arêtes de transition train, modulation temporelle des arêtes, GRU (64 dimensions par défaut), score cosinus avec les embeddings candidats. Le mode complet 64 dimensions compte 96 837 paramètres entraînables, à mettre en regard des quelque 5 082 préfixes train. CE exacte ; deux pertes auxiliaires InfoNCE B×B optionnelles, contrastant respectivement les préfixes et les POI entre deux vues stochastiques. Leurs coefficients et le dropout sont paramétrables, sauvegardés et ablatés. La matrice d'étude inclut le mode sans loss contrastive.
+
+**Protocole de l'instantané.** 35/8/8 visiteurs train/validation/test, split 2022, 359 candidats, meilleurs checkpoints sélectionnés au MRR validation. Les runs livrés et les résultats test du split 2022 sont **exploratoires** : les résultats des baselines et un smoke test avaient déjà été consultés. Les statistiques agrégées sur plusieurs initialisations n'évaluent pas automatiquement la sensibilité à d'autres visiteurs test.
+
+**Risques méthodologiques constatés.** Sujet généré par IA, 282 associations non vérifiées humainement et 140 désaccords de sujet ; une date d'accrochage incompatible avec une visite ; 1 573 débuts sans fin appariée, dont 1 563 imputables hors ligne et 1 201 plafonnés au prochain début ; rareté de certaines cibles ; un embedding d'ID pourrait absorber le signal des sujets ; intervalles larges avec huit visiteurs test. Les données d'identité des visiteurs ne sont pas exploitées dans ce projet.
+
+**Usage scientifique recommandé.** Présenter toutes les variantes pré-déclarées et les contrôles de permutation, statistiques par visiteur et plusieurs initialisations. Employer une évaluation externe ou une procédure groupée supplémentaire pour toute affirmation confirmatoire. Documenter les sources/licences avant diffusion publique. Voir `docs/METHODS.md` et `docs/DATA_AUDIT.md`.

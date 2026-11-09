@@ -1,0 +1,274 @@
+{
+  "format": "stkg.cll.graph_summary.v1",
+  "variant": "poi_only",
+  "node_counts": {
+    "POI": 359
+  },
+  "edge_counts": {
+    "POI -> next_poi -> POI": 2218
+  },
+  "total_edges": 2218,
+  "behavioral_edges": 2218,
+  "observed_train_transitions": 5082,
+  "train_visitors": [
+    "items_201903091200",
+    "items_201903091600",
+    "items_201903081410",
+    "items_201903091210",
+    "items_201902181600",
+    "items_201903111400",
+    "items_201903061610",
+    "items_201902211710",
+    "items_201902201020",
+    "items_201902221410",
+    "items_201902231200",
+    "items_201903041020",
+    "items_201902221400",
+    "items_201902201600",
+    "items_201903211400",
+    "items_201902221600",
+    "items_201902211610",
+    "items_201902201210",
+    "items_201902181200",
+    "items_201903081610",
+    "items_201902181610",
+    "items_201902211600",
+    "items_201902201400",
+    "items_201902211400",
+    "items_201903021610",
+    "items_201902211210",
+    "items_201902201410",
+    "items_201902201610",
+    "items_201903021410",
+    "items_201902221610",
+    "items_201903201020",
+    "items_201903201010",
+    "items_201902211700",
+    "items_201902181210",
+    "items_201903091410"
+  ],
+  "options": {
+    "room": false,
+    "subject": false,
+    "spatial": false,
+    "room_features": false,
+    "midpoint": false,
+    "layers": 2
+  },
+  "rooms_by_floor": {},
+  "room_neighbor_count_distribution": {},
+  "isolated_rooms_in_active_graph": [],
+  "room_components_in_active_graph": [],
+  "poi_without_room": [],
+  "poi_room_floor_conflicts": [
+    "1_5892"
+  ],
+  "poi_without_subject": [
+    "0_0696"
+  ],
+  "spatial_file_validation": {
+    "rooms": 41,
+    "rooms_by_floor": {
+      "0": 16,
+      "1": 20,
+      "2": 5
+    },
+    "adjacency_pairs": 50,
+    "directed_adjacency_edges": 100,
+    "adjacency_types": {
+      "border": 48,
+      "door": 2
+    },
+    "rooms_without_neighbors": [],
+    "neighbor_count_distribution": {
+      "1": 8,
+      "2": 20,
+      "3": 6,
+      "4": 3,
+      "5": 2,
+      "6": 2
+    },
+    "cross_floor_edges": [],
+    "connected_components": [
+      [
+        "Room_0",
+        "Room_1",
+        "Room_10",
+        "Room_11",
+        "Room_12",
+        "Room_13",
+        "Room_14",
+        "Room_15",
+        "Room_2",
+        "Room_3",
+        "Room_4",
+        "Room_5",
+        "Room_6",
+        "Room_7",
+        "Room_8",
+        "Room_9"
+      ],
+      [
+        "Room_16",
+        "Room_17",
+        "Room_18",
+        "Room_19",
+        "Room_20",
+        "Room_21",
+        "Room_22",
+        "Room_23",
+        "Room_24",
+        "Room_25",
+        "Room_26",
+        "Room_27",
+        "Room_28",
+        "Room_29",
+        "Room_30",
+        "Room_31",
+        "Room_32",
+        "Room_33",
+        "Room_34",
+        "Room_35"
+      ],
+      [
+        "Room_36",
+        "Room_37",
+        "Room_38",
+        "Room_39",
+        "Room_40"
+      ]
+    ],
+    "connected_component_count": 3,
+    "issues": [],
+    "issue_counts": {},
+    "invalid_room_references": 0,
+    "asymmetric_neighbor_declarations": 0,
+    "topology_policy": "reciprocal neighbors only; no inferred self/vertical edges",
+    "spatial_limit": "No path between distinct room components; behavioral POI transitions may still cross floors."
+  },
+  "normalization": {
+    "room": {
+      "area_m2": {
+        "mean": 84.51219512195122,
+        "std": 63.605668542915225,
+        "n": 41
+      },
+      "fitted_from": "all_static_museum_rooms"
+    },
+    "geometry": {
+      "midpoint_by_floor": {
+        "0": [
+          {
+            "mean": 4005.9625,
+            "std": 1492.5901010805846,
+            "n": 24
+          },
+          {
+            "mean": 1900.1625000000001,
+            "std": 1062.8356308371879,
+            "n": 24
+          }
+        ],
+        "1": [
+          {
+            "mean": 3184.152380952381,
+            "std": 1551.9485664707195,
+            "n": 21
+          },
+          {
+            "mean": 2632.447619047619,
+            "std": 1539.4762534301344,
+            "n": 21
+          }
+        ],
+        "2": [
+          {
+            "mean": 1381.0,
+            "std": 814.5352515391829,
+            "n": 5
+          },
+          {
+            "mean": 5254.639999999999,
+            "std": 285.3074033389249,
+            "n": 5
+          }
+        ]
+      },
+      "fitted_from": "static_same_floor_adjacencies",
+      "cross_floor_geometry": "disabled; coordinate systems are not compared"
+    },
+    "behavior": {
+      "features": [
+        "mean_log_start_gap",
+        "mean_log_causal_dwell",
+        "causal_dwell_available_rate"
+      ],
+      "mean": [
+        2.7368717243494496,
+        2.2136414560544635,
+        0.9957759027867233
+      ],
+      "std": [
+        0.9533447303227894,
+        0.7802180850902903,
+        0.059774341468330036
+      ],
+      "fitted_from": "train_transition_edges_only",
+      "train_visitors": [
+        "items_201903091200",
+        "items_201903091600",
+        "items_201903081410",
+        "items_201903091210",
+        "items_201902181600",
+        "items_201903111400",
+        "items_201903061610",
+        "items_201902211710",
+        "items_201902201020",
+        "items_201902221410",
+        "items_201902231200",
+        "items_201903041020",
+        "items_201902221400",
+        "items_201902201600",
+        "items_201903211400",
+        "items_201902221600",
+        "items_201902211610",
+        "items_201902201210",
+        "items_201902181200",
+        "items_201903081610",
+        "items_201902181610",
+        "items_201902211600",
+        "items_201902201400",
+        "items_201902211400",
+        "items_201903021610",
+        "items_201902211210",
+        "items_201902201410",
+        "items_201902201610",
+        "items_201903021410",
+        "items_201902221610",
+        "items_201903201020",
+        "items_201903201010",
+        "items_201902211700",
+        "items_201902181210",
+        "items_201903091410"
+      ]
+    }
+  },
+  "spatial_source_sha256": "37e576dbb6700081d66ba3352dd88f6df1f76f2f36b24f636e76827f837ee4df",
+  "augmentation": {
+    "edge_dropout": {
+      "POI -> next_poi -> POI": 0.1
+    },
+    "static_edge_dropout": 0.0,
+    "representation_dropout": 0.2
+  },
+  "model_inputs_exclude": [
+    "title",
+    "artist",
+    "visual_description",
+    "style_raw",
+    "annotation_provenance"
+  ],
+  "message_passing": "Synchronous relational means, shared source projections and per-relation diagonal scales; train frequency/time weighted incoming and outgoing POI messages",
+  "receptive_field": "2 layers: POI -> ROOM/SUBJECT -> POI and adjacent ROOM -> ROOM -> POI; adjacent-room POI would require 3 hops",
+  "trainable_parameters": 113259
+}

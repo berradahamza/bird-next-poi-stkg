@@ -1,0 +1,44 @@
+/workspace/scratch/93c24f23b7b8/STKG_CLL_POI/stkg_cll_poi/experiment.py:206: UserWarning: POI/ROOM floor conflicts: ['1_5892']; spatial file is authoritative
+  graph=build_heterogeneous_graph(art["items"],graph,spatial,variant,room_features,midpoint,gnn_layers)
+Spatial graph validation
+------------------------
+Rooms: 41
+Floors / room counts: {'0': 16, '1': 20, '2': 5}
+Adjacency pairs: 50
+Directed adjacency edges after expansion: 100
+Adjacency types: {'border': 48, 'door': 2}
+Rooms without neighbors: []
+Invalid room references: 0
+Asymmetric neighbor declarations: 0
+Cross-floor edges: []
+Connected components: 3
+No path between distinct room components; behavioral POI transitions may still cross floors.
+NODE TYPES
+----------
+POI: 359
+ROOM: 41
+SUBJECT: 9
+EDGE TYPES
+----------
+POI -> next_poi -> POI: 2218
+POI -> located_in -> ROOM: 359
+ROOM -> contains -> POI: 359
+POI -> has_main_subject -> SUBJECT: 357
+SUBJECT -> main_subject_of -> POI: 357
+POI -> has_secondary_subject -> SUBJECT: 776
+SUBJECT -> secondary_subject_of -> POI: 776
+ROOM -> adjacent_border -> ROOM: 96
+ROOM -> adjacent_door -> ROOM: 4
+rooms_by_floor: {'0': 16, '1': 20, '2': 5}
+room_neighbor_count_distribution: {'1': 8, '2': 20, '3': 6, '4': 3, '5': 2, '6': 2}
+isolated_rooms_in_active_graph: []
+poi_without_room: []
+poi_without_subject: ['0_0696']
+Active ROOM components: 3
+epoch 01 ce=4.3270 val_mrr=0.2690
+epoch 02 ce=3.4656 val_mrr=0.3010
+{
+  "selected_epoch": 2,
+  "validation_mrr": 0.30101736271612645,
+  "test_status": "not_evaluated_use_evaluate-test_after_freezing_configuration"
+}

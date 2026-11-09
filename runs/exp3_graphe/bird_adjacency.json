@@ -1,0 +1,1714 @@
+{
+  "format": "bird-room-adjacency-v1",
+  "units": "BIRD plan centimetres, y grows downwards",
+  "sources": {
+    "plan_additions.json": "a02052ac798afda031fc901f97a791c90c4fd0a1446d16e08d24d1ed329bae1d",
+    "bird_rooms.json": "34cb217f3112612d49f7f9824d686aadd8605b1fac1a5085262072e4d82328e1"
+  },
+  "rooms": {
+    "Room_0": {
+      "floor": 0,
+      "area_m2": 330.4
+    },
+    "Room_1": {
+      "floor": 0,
+      "area_m2": 54.4
+    },
+    "Room_2": {
+      "floor": 0,
+      "area_m2": 54.1
+    },
+    "Room_3": {
+      "floor": 0,
+      "area_m2": 278.0
+    },
+    "Room_4": {
+      "floor": 0,
+      "area_m2": 90.4
+    },
+    "Room_5": {
+      "floor": 0,
+      "area_m2": 85.0
+    },
+    "Room_6": {
+      "floor": 0,
+      "area_m2": 48.7
+    },
+    "Room_7": {
+      "floor": 0,
+      "area_m2": 190.5
+    },
+    "Room_8": {
+      "floor": 0,
+      "area_m2": 65.6
+    },
+    "Room_9": {
+      "floor": 0,
+      "area_m2": 91.5
+    },
+    "Room_10": {
+      "floor": 0,
+      "area_m2": 138.8
+    },
+    "Room_11": {
+      "floor": 0,
+      "area_m2": 26.8
+    },
+    "Room_12": {
+      "floor": 0,
+      "area_m2": 44.5
+    },
+    "Room_13": {
+      "floor": 0,
+      "area_m2": 122.6
+    },
+    "Room_14": {
+      "floor": 0,
+      "area_m2": 40.0
+    },
+    "Room_15": {
+      "floor": 0,
+      "area_m2": 66.3
+    },
+    "Room_16": {
+      "floor": 1,
+      "area_m2": 84.7
+    },
+    "Room_17": {
+      "floor": 1,
+      "area_m2": 25.7
+    },
+    "Room_18": {
+      "floor": 1,
+      "area_m2": 47.6
+    },
+    "Room_19": {
+      "floor": 1,
+      "area_m2": 51.5
+    },
+    "Room_20": {
+      "floor": 1,
+      "area_m2": 66.7
+    },
+    "Room_21": {
+      "floor": 1,
+      "area_m2": 65.5
+    },
+    "Room_22": {
+      "floor": 1,
+      "area_m2": 50.7
+    },
+    "Room_23": {
+      "floor": 1,
+      "area_m2": 50.7
+    },
+    "Room_24": {
+      "floor": 1,
+      "area_m2": 47.1
+    },
+    "Room_25": {
+      "floor": 1,
+      "area_m2": 52.0
+    },
+    "Room_26": {
+      "floor": 1,
+      "area_m2": 57.0
+    },
+    "Room_27": {
+      "floor": 1,
+      "area_m2": 159.3
+    },
+    "Room_28": {
+      "floor": 1,
+      "area_m2": 94.2
+    },
+    "Room_29": {
+      "floor": 1,
+      "area_m2": 150.2
+    },
+    "Room_30": {
+      "floor": 1,
+      "area_m2": 85.7
+    },
+    "Room_31": {
+      "floor": 1,
+      "area_m2": 48.3
+    },
+    "Room_32": {
+      "floor": 1,
+      "area_m2": 48.9
+    },
+    "Room_33": {
+      "floor": 1,
+      "area_m2": 155.2
+    },
+    "Room_34": {
+      "floor": 1,
+      "area_m2": 54.2
+    },
+    "Room_35": {
+      "floor": 1,
+      "area_m2": 27.6
+    },
+    "Room_36": {
+      "floor": 2,
+      "area_m2": 25.2
+    },
+    "Room_37": {
+      "floor": 2,
+      "area_m2": 119.5
+    },
+    "Room_38": {
+      "floor": 2,
+      "area_m2": 45.6
+    },
+    "Room_39": {
+      "floor": 2,
+      "area_m2": 77.3
+    },
+    "Room_40": {
+      "floor": 2,
+      "area_m2": 47.0
+    }
+  },
+  "adjacencies": [
+    {
+      "rooms": [
+        "Room_0",
+        "Room_1"
+      ],
+      "floor": 0,
+      "type": "border",
+      "anchors": [
+        "W0_15",
+        "W0_13"
+      ],
+      "points": [
+        [
+          838.5,
+          5055.3
+        ],
+        [
+          836,
+          4405.8
+        ]
+      ],
+      "midpoint": [
+        837.2,
+        4730.6
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_0",
+        "Room_2"
+      ],
+      "floor": 0,
+      "type": "door",
+      "anchors": [
+        "W0_74",
+        "W0_86"
+      ],
+      "points": [
+        [
+          2475,
+          4248.8
+        ],
+        [
+          2707.5,
+          4251.4
+        ]
+      ],
+      "midpoint": [
+        2591.2,
+        4250.1
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_2",
+        "Room_3"
+      ],
+      "floor": 0,
+      "type": "border",
+      "anchors": [
+        "W0_54",
+        "W0_88"
+      ],
+      "points": [
+        [
+          2043,
+          3761.9
+        ],
+        [
+          2707.5,
+          3759.4
+        ]
+      ],
+      "midpoint": [
+        2375.2,
+        3760.7
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_3",
+        "Room_4"
+      ],
+      "floor": 0,
+      "type": "border",
+      "anchors": [
+        "W0_49",
+        "W0_51"
+      ],
+      "points": [
+        [
+          1629.5,
+          3027.4
+        ],
+        [
+          1629.5,
+          2886.4
+        ]
+      ],
+      "midpoint": [
+        1629.5,
+        2956.9
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_3",
+        "Room_5"
+      ],
+      "floor": 0,
+      "type": "border",
+      "anchors": [
+        "W0_52",
+        "W0_70"
+      ],
+      "points": [
+        [
+          2102,
+          1664.9
+        ],
+        [
+          2237,
+          1664.9
+        ]
+      ],
+      "midpoint": [
+        2169.5,
+        1664.9
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_3",
+        "Room_6"
+      ],
+      "floor": 0,
+      "type": "border",
+      "anchors": [
+        "W0_98",
+        "W0_110"
+      ],
+      "points": [
+        [
+          2911,
+          1585.9
+        ],
+        [
+          3144,
+          1585.9
+        ]
+      ],
+      "midpoint": [
+        3027.5,
+        1585.9
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_3",
+        "Room_7"
+      ],
+      "floor": 0,
+      "type": "border",
+      "anchors": [
+        "W0_119",
+        "W0_110"
+      ],
+      "points": [
+        [
+          3232,
+          1721.9
+        ],
+        [
+          3374,
+          1585.9
+        ]
+      ],
+      "midpoint": [
+        3303.0,
+        1653.9
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_3",
+        "Room_8"
+      ],
+      "floor": 0,
+      "type": "border",
+      "anchors": [
+        "W0_113",
+        "W0_120"
+      ],
+      "points": [
+        [
+          3161.5,
+          2438.4
+        ],
+        [
+          3232,
+          2236.9
+        ]
+      ],
+      "midpoint": [
+        3196.8,
+        2337.7
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_5",
+        "Room_6"
+      ],
+      "floor": 0,
+      "type": "border",
+      "anchors": [
+        "W0_94",
+        "W0_95"
+      ],
+      "points": [
+        [
+          2754.5,
+          1363.4
+        ],
+        [
+          2754.5,
+          1217.4
+        ]
+      ],
+      "midpoint": [
+        2754.5,
+        1290.4
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_6",
+        "Room_7"
+      ],
+      "floor": 0,
+      "type": "border",
+      "anchors": [
+        "W0_123",
+        "W0_126"
+      ],
+      "points": [
+        [
+          3374,
+          1248.9
+        ],
+        [
+          3371.5,
+          1385.4
+        ]
+      ],
+      "midpoint": [
+        3372.8,
+        1317.2
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_7",
+        "Room_8"
+      ],
+      "floor": 0,
+      "type": "border",
+      "anchors": [
+        "W0_119",
+        "W0_131"
+      ],
+      "points": [
+        [
+          3752,
+          1721.9
+        ],
+        [
+          3749.5,
+          1565.44
+        ]
+      ],
+      "midpoint": [
+        3750.8,
+        1643.7
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_7",
+        "Room_10"
+      ],
+      "floor": 0,
+      "type": "border",
+      "anchors": [
+        "W0_131",
+        "W0_139"
+      ],
+      "points": [
+        [
+          3749.5,
+          1385.4
+        ],
+        [
+          3929.5,
+          1005.4
+        ]
+      ],
+      "midpoint": [
+        3839.5,
+        1195.4
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_7",
+        "Room_11"
+      ],
+      "floor": 0,
+      "type": "border",
+      "anchors": [
+        "W0_161",
+        "W0_170"
+      ],
+      "points": [
+        [
+          4319.5,
+          569.4
+        ],
+        [
+          4874,
+          699.9
+        ]
+      ],
+      "midpoint": [
+        4596.8,
+        634.6
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_7",
+        "Room_12"
+      ],
+      "floor": 0,
+      "type": "border",
+      "anchors": [
+        "W0_199",
+        "W0_200",
+        "W0_222"
+      ],
+      "points": [
+        [
+          5425.5,
+          602.4
+        ],
+        [
+          5533,
+          531.9
+        ],
+        [
+          6250.5,
+          278.4
+        ]
+      ],
+      "midpoint": [
+        5736.3,
+        470.9
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_8",
+        "Room_9"
+      ],
+      "floor": 0,
+      "type": "border",
+      "anchors": [
+        "W0_146",
+        "W0_153"
+      ],
+      "points": [
+        [
+          4248.5,
+          2438.4
+        ],
+        [
+          4273.5,
+          2236.4
+        ]
+      ],
+      "midpoint": [
+        4261.0,
+        2337.4
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_8",
+        "Room_10"
+      ],
+      "floor": 0,
+      "type": "border",
+      "anchors": [
+        "W0_153",
+        "W0_160"
+      ],
+      "points": [
+        [
+          4273.5,
+          2055.4
+        ],
+        [
+          4315.5,
+          1856.4
+        ]
+      ],
+      "midpoint": [
+        4294.5,
+        1955.9
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_9",
+        "Room_10"
+      ],
+      "floor": 0,
+      "type": "border",
+      "anchors": [
+        "W0_162",
+        "W0_177"
+      ],
+      "points": [
+        [
+          4906,
+          2031.9
+        ],
+        [
+          5035.5,
+          2055.4
+        ]
+      ],
+      "midpoint": [
+        4970.8,
+        2043.7
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_9",
+        "Room_13"
+      ],
+      "floor": 0,
+      "type": "border",
+      "anchors": [
+        "W0_184",
+        "W0_187"
+      ],
+      "points": [
+        [
+          5158.5,
+          2002.4
+        ],
+        [
+          5301,
+          1916.9
+        ]
+      ],
+      "midpoint": [
+        5229.8,
+        1959.7
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_9",
+        "Room_15"
+      ],
+      "floor": 0,
+      "type": "border",
+      "anchors": [
+        "W0_188",
+        "W0_214"
+      ],
+      "points": [
+        [
+          6108,
+          1926.9
+        ],
+        [
+          6095.5,
+          1998.4
+        ]
+      ],
+      "midpoint": [
+        6101.8,
+        1962.7
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_10",
+        "Room_11"
+      ],
+      "floor": 0,
+      "type": "border",
+      "anchors": [
+        "W0_147",
+        "W0_161"
+      ],
+      "points": [
+        [
+          4731,
+          971.9
+        ],
+        [
+          4319.5,
+          569.4
+        ]
+      ],
+      "midpoint": [
+        4525.2,
+        770.6
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_10",
+        "Room_13"
+      ],
+      "floor": 0,
+      "type": "border",
+      "anchors": [
+        "W0_195",
+        "W0_199"
+      ],
+      "points": [
+        [
+          5318.5,
+          1372.4
+        ],
+        [
+          5425.5,
+          1024.4
+        ]
+      ],
+      "midpoint": [
+        5372.0,
+        1198.4
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_12",
+        "Room_13"
+      ],
+      "floor": 0,
+      "type": "border",
+      "anchors": [
+        "W0_199",
+        "W0_203"
+      ],
+      "points": [
+        [
+          5425.5,
+          1024.4
+        ],
+        [
+          5737,
+          972.9
+        ]
+      ],
+      "midpoint": [
+        5581.2,
+        998.7
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_13",
+        "Room_14"
+      ],
+      "floor": 0,
+      "type": "border",
+      "anchors": [
+        "W0_223",
+        "W0_227"
+      ],
+      "points": [
+        [
+          6260.5,
+          912.4
+        ],
+        [
+          6455,
+          1021.9
+        ]
+      ],
+      "midpoint": [
+        6357.8,
+        967.1
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_13",
+        "Room_15"
+      ],
+      "floor": 0,
+      "type": "border",
+      "anchors": [
+        "W0_187",
+        "W0_230"
+      ],
+      "points": [
+        [
+          6108,
+          1916.9
+        ],
+        [
+          6428.7899,
+          1916.7339
+        ]
+      ],
+      "midpoint": [
+        6268.4,
+        1916.8
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_16",
+        "Room_17"
+      ],
+      "floor": 1,
+      "type": "border",
+      "anchors": [
+        "W1_166",
+        "W1_118"
+      ],
+      "points": [
+        [
+          5678.5,
+          871.4
+        ],
+        [
+          5680.9,
+          1078.8
+        ]
+      ],
+      "midpoint": [
+        5679.7,
+        975.1
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_17",
+        "Room_18"
+      ],
+      "floor": 1,
+      "type": "border",
+      "anchors": [
+        "W1_144",
+        "W1_118"
+      ],
+      "points": [
+        [
+          4593.4,
+          895.4
+        ],
+        [
+          4593.4,
+          1078.8
+        ]
+      ],
+      "midpoint": [
+        4593.4,
+        987.1
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_18",
+        "Room_19"
+      ],
+      "floor": 1,
+      "type": "border",
+      "anchors": [
+        "W1_140",
+        "W1_144"
+      ],
+      "points": [
+        [
+          4145,
+          666.9
+        ],
+        [
+          4593.4,
+          895.4
+        ]
+      ],
+      "midpoint": [
+        4369.2,
+        781.1
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_18",
+        "Room_20"
+      ],
+      "floor": 1,
+      "type": "border",
+      "anchors": [
+        "W1_109",
+        "W1_115"
+      ],
+      "points": [
+        [
+          2964.9,
+          1078.9
+        ],
+        [
+          3177.4,
+          856.4
+        ]
+      ],
+      "midpoint": [
+        3071.2,
+        967.7
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_20",
+        "Room_21"
+      ],
+      "floor": 1,
+      "type": "border",
+      "anchors": [
+        "W1_155",
+        "W1_156"
+      ],
+      "points": [
+        [
+          5381,
+          1582.8
+        ],
+        [
+          5381,
+          1437.8
+        ]
+      ],
+      "midpoint": [
+        5381.0,
+        1510.3
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_21",
+        "Room_22"
+      ],
+      "floor": 1,
+      "type": "border",
+      "anchors": [
+        "W1_162",
+        "W1_170"
+      ],
+      "points": [
+        [
+          5089,
+          2192.9
+        ],
+        [
+          5689.4,
+          2192.9
+        ]
+      ],
+      "midpoint": [
+        5389.2,
+        2192.9
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_21",
+        "Room_24"
+      ],
+      "floor": 1,
+      "type": "border",
+      "anchors": [
+        "W1_86",
+        "W1_131"
+      ],
+      "points": [
+        [
+          4621.5,
+          1749.8
+        ],
+        [
+          4621.5,
+          1924.4
+        ]
+      ],
+      "midpoint": [
+        4621.5,
+        1837.1
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_22",
+        "Room_23"
+      ],
+      "floor": 1,
+      "type": "border",
+      "anchors": [
+        "W1_153",
+        "W1_161"
+      ],
+      "points": [
+        [
+          4644.4,
+          2470.4
+        ],
+        [
+          4608,
+          2203.9
+        ]
+      ],
+      "midpoint": [
+        4626.2,
+        2337.2
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_23",
+        "Room_24"
+      ],
+      "floor": 1,
+      "type": "border",
+      "anchors": [
+        "W1_137",
+        "W1_161"
+      ],
+      "points": [
+        [
+          4023,
+          2192.9
+        ],
+        [
+          4608,
+          2203.9
+        ]
+      ],
+      "midpoint": [
+        4315.5,
+        2198.4
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_23",
+        "Room_26"
+      ],
+      "floor": 1,
+      "type": "border",
+      "anchors": [
+        "W1_130",
+        "W1_136"
+      ],
+      "points": [
+        [
+          3585.4,
+          2470.4
+        ],
+        [
+          3542,
+          2203.9
+        ]
+      ],
+      "midpoint": [
+        3563.7,
+        2337.2
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_24",
+        "Room_25"
+      ],
+      "floor": 1,
+      "type": "border",
+      "anchors": [
+        "W1_86",
+        "W1_126"
+      ],
+      "points": [
+        [
+          3554.5,
+          1749
+        ],
+        [
+          3554.5,
+          1923.4
+        ]
+      ],
+      "midpoint": [
+        3554.5,
+        1836.2
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_25",
+        "Room_26"
+      ],
+      "floor": 1,
+      "type": "border",
+      "anchors": [
+        "W1_106",
+        "W1_137"
+      ],
+      "points": [
+        [
+          2957,
+          2197.9
+        ],
+        [
+          3542,
+          2192.9
+        ]
+      ],
+      "midpoint": [
+        3249.5,
+        2195.4
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_26",
+        "Room_27"
+      ],
+      "floor": 1,
+      "type": "border",
+      "anchors": [
+        "W1_77",
+        "W1_78"
+      ],
+      "points": [
+        [
+          2278,
+          2472.88
+        ],
+        [
+          2278,
+          2203.8
+        ]
+      ],
+      "midpoint": [
+        2278.0,
+        2338.3
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_27",
+        "Room_28"
+      ],
+      "floor": 1,
+      "type": "border",
+      "anchors": [
+        "W1_38",
+        "W1_88"
+      ],
+      "points": [
+        [
+          1688.9,
+          1280.9
+        ],
+        [
+          1827.9,
+          1280.9
+        ]
+      ],
+      "midpoint": [
+        1758.4,
+        1280.9
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_27",
+        "Room_29"
+      ],
+      "floor": 1,
+      "type": "border",
+      "anchors": [
+        "W1_31",
+        "W1_44"
+      ],
+      "points": [
+        [
+          1229.5,
+          2820.89
+        ],
+        [
+          1443,
+          2820.89
+        ]
+      ],
+      "midpoint": [
+        1336.2,
+        2820.9
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_27",
+        "Room_30"
+      ],
+      "floor": 1,
+      "type": "border",
+      "anchors": [
+        "W1_32"
+      ],
+      "points": [
+        [
+          1229.5,
+          2820.89
+        ],
+        [
+          1229.5,
+          2956.3
+        ]
+      ],
+      "midpoint": [
+        1229.5,
+        2888.6
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_29",
+        "Room_31"
+      ],
+      "floor": 1,
+      "type": "border",
+      "anchors": [
+        "W1_67",
+        "W1_79"
+      ],
+      "points": [
+        [
+          2105,
+          4436.8
+        ],
+        [
+          2278,
+          4430.8
+        ]
+      ],
+      "midpoint": [
+        2191.5,
+        4433.8
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_31",
+        "Room_32"
+      ],
+      "floor": 1,
+      "type": "border",
+      "anchors": [
+        "W1_66",
+        "W1_73"
+      ],
+      "points": [
+        [
+          2110,
+          5084.8
+        ],
+        [
+          2252,
+          5084.8
+        ]
+      ],
+      "midpoint": [
+        2181.0,
+        5084.8
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_32",
+        "Room_33"
+      ],
+      "floor": 1,
+      "type": "border",
+      "anchors": [
+        "W1_64",
+        "W1_65"
+      ],
+      "points": [
+        [
+          2036.5,
+          5521.3
+        ],
+        [
+          2036.5,
+          5663.3
+        ]
+      ],
+      "midpoint": [
+        2036.5,
+        5592.3
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_33",
+        "Room_34"
+      ],
+      "floor": 1,
+      "type": "border",
+      "anchors": [
+        "W1_23",
+        "W1_24"
+      ],
+      "points": [
+        [
+          805.4,
+          5654.3
+        ],
+        [
+          805.5,
+          5512.3
+        ]
+      ],
+      "midpoint": [
+        805.5,
+        5583.3
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_34",
+        "Room_35"
+      ],
+      "floor": 1,
+      "type": "door",
+      "anchors": [
+        "W1_4",
+        "W1_13"
+      ],
+      "points": [
+        [
+          578,
+          5102.8
+        ],
+        [
+          693.9,
+          5102.8
+        ]
+      ],
+      "midpoint": [
+        636.0,
+        5102.8
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_36",
+        "Room_37"
+      ],
+      "floor": 2,
+      "type": "border",
+      "anchors": [
+        "W2_22",
+        "W2_41"
+      ],
+      "points": [
+        [
+          740,
+          5017.7
+        ],
+        [
+          740,
+          4887.7
+        ]
+      ],
+      "midpoint": [
+        740.0,
+        4952.7
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_36",
+        "Room_40"
+      ],
+      "floor": 2,
+      "type": "border",
+      "anchors": [
+        "W2_6",
+        "W2_21"
+      ],
+      "points": [
+        [
+          574,
+          5049.7
+        ],
+        [
+          703.5,
+          5049.7
+        ]
+      ],
+      "midpoint": [
+        638.8,
+        5049.7
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_37",
+        "Room_38"
+      ],
+      "floor": 2,
+      "type": "border",
+      "anchors": [
+        "W2_65",
+        "W2_70"
+      ],
+      "points": [
+        [
+          2503,
+          5116.7
+        ],
+        [
+          2759.5,
+          5022.2
+        ]
+      ],
+      "midpoint": [
+        2631.2,
+        5069.4
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_38",
+        "Room_39"
+      ],
+      "floor": 2,
+      "type": "border",
+      "anchors": [
+        "W2_60",
+        "W2_61"
+      ],
+      "points": [
+        [
+          2073.5,
+          5669.2
+        ],
+        [
+          2073.5,
+          5529.2
+        ]
+      ],
+      "midpoint": [
+        2073.5,
+        5599.2
+      ],
+      "same_floor_rooms": true
+    },
+    {
+      "rooms": [
+        "Room_39",
+        "Room_40"
+      ],
+      "floor": 2,
+      "type": "border",
+      "anchors": [
+        "W2_33",
+        "W2_35"
+      ],
+      "points": [
+        [
+          821.5,
+          5672.22
+        ],
+        [
+          821.5,
+          5532.2
+        ]
+      ],
+      "midpoint": [
+        821.5,
+        5602.2
+      ],
+      "same_floor_rooms": true
+    }
+  ],
+  "neighbors": {
+    "Room_0": [
+      "Room_1",
+      "Room_2"
+    ],
+    "Room_1": [
+      "Room_0"
+    ],
+    "Room_2": [
+      "Room_0",
+      "Room_3"
+    ],
+    "Room_3": [
+      "Room_2",
+      "Room_4",
+      "Room_5",
+      "Room_6",
+      "Room_7",
+      "Room_8"
+    ],
+    "Room_4": [
+      "Room_3"
+    ],
+    "Room_5": [
+      "Room_3",
+      "Room_6"
+    ],
+    "Room_6": [
+      "Room_3",
+      "Room_5",
+      "Room_7"
+    ],
+    "Room_7": [
+      "Room_3",
+      "Room_6",
+      "Room_8",
+      "Room_10",
+      "Room_11",
+      "Room_12"
+    ],
+    "Room_8": [
+      "Room_3",
+      "Room_7",
+      "Room_9",
+      "Room_10"
+    ],
+    "Room_9": [
+      "Room_8",
+      "Room_10",
+      "Room_13",
+      "Room_15"
+    ],
+    "Room_10": [
+      "Room_7",
+      "Room_8",
+      "Room_9",
+      "Room_11",
+      "Room_13"
+    ],
+    "Room_11": [
+      "Room_7",
+      "Room_10"
+    ],
+    "Room_12": [
+      "Room_7",
+      "Room_13"
+    ],
+    "Room_13": [
+      "Room_9",
+      "Room_10",
+      "Room_12",
+      "Room_14",
+      "Room_15"
+    ],
+    "Room_14": [
+      "Room_13"
+    ],
+    "Room_15": [
+      "Room_9",
+      "Room_13"
+    ],
+    "Room_16": [
+      "Room_17"
+    ],
+    "Room_17": [
+      "Room_16",
+      "Room_18"
+    ],
+    "Room_18": [
+      "Room_17",
+      "Room_19",
+      "Room_20"
+    ],
+    "Room_19": [
+      "Room_18"
+    ],
+    "Room_20": [
+      "Room_18",
+      "Room_21"
+    ],
+    "Room_21": [
+      "Room_20",
+      "Room_22",
+      "Room_24"
+    ],
+    "Room_22": [
+      "Room_21",
+      "Room_23"
+    ],
+    "Room_23": [
+      "Room_22",
+      "Room_24",
+      "Room_26"
+    ],
+    "Room_24": [
+      "Room_21",
+      "Room_23",
+      "Room_25"
+    ],
+    "Room_25": [
+      "Room_24",
+      "Room_26"
+    ],
+    "Room_26": [
+      "Room_23",
+      "Room_25",
+      "Room_27"
+    ],
+    "Room_27": [
+      "Room_26",
+      "Room_28",
+      "Room_29",
+      "Room_30"
+    ],
+    "Room_28": [
+      "Room_27"
+    ],
+    "Room_29": [
+      "Room_27",
+      "Room_31"
+    ],
+    "Room_30": [
+      "Room_27"
+    ],
+    "Room_31": [
+      "Room_29",
+      "Room_32"
+    ],
+    "Room_32": [
+      "Room_31",
+      "Room_33"
+    ],
+    "Room_33": [
+      "Room_32",
+      "Room_34"
+    ],
+    "Room_34": [
+      "Room_33",
+      "Room_35"
+    ],
+    "Room_35": [
+      "Room_34"
+    ],
+    "Room_36": [
+      "Room_37",
+      "Room_40"
+    ],
+    "Room_37": [
+      "Room_36",
+      "Room_38"
+    ],
+    "Room_38": [
+      "Room_37",
+      "Room_39"
+    ],
+    "Room_39": [
+      "Room_38",
+      "Room_40"
+    ],
+    "Room_40": [
+      "Room_36",
+      "Room_39"
+    ]
+  }
+}

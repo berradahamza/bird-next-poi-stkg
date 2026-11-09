@@ -1,0 +1,3239 @@
+{
+  "format": "stkg.cll.annotation_lineage.v1",
+  "source_archive_sha256": "0c74e2b64d60933288197a9fbfe1bd7e110e9bcbbe2fb0c59f02e3e22c32fceb",
+  "semantic_csv_sha256": "25ed9215d2196bc6df5aa08176317beb33a128ecc8638d0895ae30583e753160",
+  "matched_ids_and_main_subject_description_style": 359,
+  "entries": {
+    "0_0300": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "dfeaf35f9eeb8614acbfc3193d547ef488549ea2a9c9500484e4e614fe8754b9",
+      "sha256_download": "62b1f3ebb1999ac6d243ba17083293db8be66d37f225d728e76d33e02471a536",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0300.json"
+    },
+    "0_0301": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "8b94c57bd87abc023f490cc5e9f94a4db5f5cdc59304f5a6c025f1830bdaab55",
+      "sha256_download": "e2231d1a62f81c217b813c0819d5d80bb79544d5f0e4cc70a27cae712c2dbcb8",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0301.json"
+    },
+    "0_0302": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "f5bf246cd6e39511d5e323f71006504ef27710a88e7487b49d60a07164761e1d",
+      "sha256_download": "0276088d2f42c32df9721a38702624c277e7680c7673b2e21edc447665f09cae",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0302.json"
+    },
+    "0_0303": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "6216ebb410c8672c7230018e5bd42efa9401d39fc0771488569570c9696b2805",
+      "sha256_download": "be71b6224c8331946c160b4ab355f8a4fea6c7acb36d46b73b6da805468eb8f9",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0303.json"
+    },
+    "0_0304": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "02569ede6e5d9c9a1b030d1c71afb425720bfcb1292a8663060e10dbad69878f",
+      "sha256_download": "6ef2c06c8fdeb4ef0220f853150ac318c01eb080a4a14ba02a5002232e4a2b7b",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0304.json"
+    },
+    "0_0305": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "36fa870c51f9f15eaca81c8e91b7b2d2d77ebeb833effd579082b2e8fcbdb5ec",
+      "sha256_download": "ee854c3bc1ae99e72ea2dd7da5cf7f142cb0621ee9b7354aac23cfab04912175",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0305.json"
+    },
+    "0_0306": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "611e55548e5ff2d2a0133ccbd58e18ff10009324ac9299e14bba463419020b23",
+      "sha256_download": "a6533d81d11696734d9af4515c5c270eb65c9cc8aa02332b62fe0c0ee892099a",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0306.json"
+    },
+    "0_0334": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "66a9f2a790de15d7bfc47ced0a967e3857fcb2f736b9484fe03a004605bfe4c4",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/0_0334.json"
+    },
+    "0_0337": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "3018a9f18507c088c856f88bc62105836e015e02085b6220a7e334aa99a987ba",
+      "sha256_download": "876585fa9697fa1a8f61c0de61f18113379b36a228c3fc261f5fa7b93bbc8ca0",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0337.json"
+    },
+    "0_0347": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "66e201c739aca220473691786c00148057fcb45a2be1775c600353b1280e46f4",
+      "sha256_download": "2e5c14e179fb58c2dffe06df477b6a868578c82e4ca195df35f97fc4ebd154db",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0347.json"
+    },
+    "0_0350": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "4e6437d680cbd6efc6ddf7718e0498579ff93526c36ebc41dd20220b00611f31",
+      "sha256_download": "2e5c14e179fb58c2dffe06df477b6a868578c82e4ca195df35f97fc4ebd154db",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0350.json"
+    },
+    "0_0353": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "97fc5b06417a9a535c4f95a599bf544adcb2e61d38668d833fdfde286a99b387",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/0_0353.json"
+    },
+    "0_0356": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "1397685cafc3579711e2c2749b0087f36aa3352b11b6f8b822d55a37130cb8fa",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/0_0356.json"
+    },
+    "0_0375": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "f37d103eadc39f85ecbfd08f0b0f49317b759877e897183d0e242fc8d4f79602",
+      "sha256_download": "92a2059c886f099cd071ef56aaf567db2406c034a9d6940b98a6b1182c676be8",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0375.json"
+    },
+    "0_0439": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "f93482f86f1467f78da4b3938b3d534d9e17e6e60666ea393cbedd5fb002b906",
+      "sha256_download": "684a326d64e27aa7005b38e13861c86fbbdc74cc6f46a1d8ad355242c4eedf5b",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0439.json"
+    },
+    "0_0558": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "4ce40db22c9e01d489e32c88fa71eb03ff678dd01511e66585be3cd3488f6fb3",
+      "sha256_download": "c06b3c351f770112a6079bb97c68bb7af461b2f18ad9719c95222621a58b0e53",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0558.json"
+    },
+    "0_0562": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "5c3058a24b9ba0b5d84f30741b178047efc73e137cb8b2295dec845c4f51e038",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/0_0562.json"
+    },
+    "0_0565": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "d1e20426d17e9375933eff400946ba40a1751e81650825921d050c6cbcec5377",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/0_0565.json"
+    },
+    "0_0570": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "22fe29472a5375f8f099a5878a7031a9225941e6752c371887b0bb859e2ac8ac",
+      "sha256_download": "4d806b0cf241500b8d656ca0bdde0aa78ac2e9ff613c9f840a0d5cb7ae416476",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0570.json"
+    },
+    "0_0571": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "cd8fd3a80220d16007daf7c23ff9c8a9fb113adde096ac3d415f87b6726d29fc",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/0_0571.json"
+    },
+    "0_0572": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "13f6209b1c987e8229b37b1b321131e9d0829bf9935079672ac3639e6387d8b0",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/0_0572.json"
+    },
+    "0_0573": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "44a48e2a41631b66a736d0ed5f4ab46907ee1ab6288ae15f00dc472980f1efed",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/0_0573.json"
+    },
+    "0_0574": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "f10d16c43699429aee398b1ede401ca582ad13245ca5e97d44ce2030312b6473",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/0_0574.json"
+    },
+    "0_0575": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "1250b181014e94e24e10e0a1b1105b760e9eb64631a15a3296f58bf64e3221b3",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/0_0575.json"
+    },
+    "0_0577": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "c4322479305847978ae8a9c1007ee5e9bb5889e9892b426796dfa5ad2c77fb91",
+      "sha256_download": "aced62de57ce079b01d98f91925510a9b89e3649be72bb0c450cc25e440431fd",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0577.json"
+    },
+    "0_0668": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "a77526eb56dd943ca4675456bb72ce5047cf4f011f9663b18a70a89d5c6afa67",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/0_0668.json"
+    },
+    "0_0670": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "823a8bef118818d3ecd4b2568be677759798bbe3ecd016ca9a1d4165a5750252",
+      "sha256_download": "b418c104dae12e7db791a6fd4769531cb1fd5126aab84387fd49ef207a265e93",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0670.json"
+    },
+    "0_0673": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "1e71b66bc5e432e93fffdcb032bd6389fc53bf9d7208d49a22c2dd9e8b5b0788",
+      "sha256_download": "69266c40371773ee623c2596523396a5576f5bf243c169f2ef1fa9891e3df998",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0673.json"
+    },
+    "0_0675": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "99f7a9e9742cab55eebe5d399144966a68c56aebb237cbade77891f25b283137",
+      "sha256_download": "78d3844ac2dfbb0d0d8f0dcdeba07639853bf4b7e2ce5e7aad2b77196529be72",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0675.json"
+    },
+    "0_0678": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "c595afb1dd95a16853ec3554001dfbbda31c73f82aca2226d7d179ef6d8cee9a",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/0_0678.json"
+    },
+    "0_0680": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "eb77793ab67f3decd4fd2a5d574d871e367d64e3595c6d62ba45f3f57f7ab112",
+      "sha256_download": "0636ab133d354fd1f24934d892b0479430d047703a15e32b853aa5f39cd73737",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0680.json"
+    },
+    "0_0689": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "533314935b50083b6120b20e712815d0018d77f11971ef9f8e21e864aa8a35b5",
+      "sha256_download": "1181d68f6f74dfec162356868dd1d551d977f82597ca969b389bfa6876053a8a",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0689.json"
+    },
+    "0_0692": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "7acbde428f91b0f34a5514fc4bdde02c996ba2303383cd97920ed236e9caa303",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/0_0692.json"
+    },
+    "0_0694": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "63dcb29786646506fac57b54512633bcf924700000542f0f712c35ccf620258c",
+      "sha256_download": "37d510fcbec2a4605e6c644dddd2649b8f3c86f393694f75a7cdef5afff72f09",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0694.json"
+    },
+    "0_0696": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "e403e0da880e58baa70c01dbec2cc222ce97655506567de5b835aebac8a2b3c9",
+      "sha256_download": "1d3d040dc4a25e4a348de22a0d79de9c738456e71285cf33c7fe29b320c7523f",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0696.json"
+    },
+    "0_0699": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "aaf28b430e5f0f91d9abe6acc2f1d9e41b0307876f5cbfc2c331dc8c11272a7d",
+      "sha256_download": "012138f9c423869198219e2d348d0de1723ce4e100724129dec6a5c3ddaa381e",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0699.json"
+    },
+    "0_0701": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "4c10cb8a428adc5859c85c5668064d9b3b281bb2d2a0b85293767f25adaef49d",
+      "sha256_download": "263fda4072d10029cfbfb4634e3cd780ac603eb617996f9fc3ae82a44e5e3e6d",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0701.json"
+    },
+    "0_0703": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "93099e8d0a47d5b096828825ec8cbabe4250b918d934c12d955ad3ce27e3f436",
+      "sha256_download": "cf81b106aca5597a7be0704d6d174907f611c2d9a4f0fae04cec2dfe9234db2f",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0703.json"
+    },
+    "0_0705": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "2013e909f7ea3c8d3e94beefa8ce1b8b296a3fb31ecda7dcec7b202ad6ddf189",
+      "sha256_download": "411c68f2066b60738e9ea2708272e908f5fda758534b2d12994d102e0e12d754",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0705.json"
+    },
+    "0_0707": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "8fc5f1075f194e9ba53ae11f104e48599a3bf18fb5cc683de627c49adedc3373",
+      "sha256_download": "5b680efc035f689783258f46422bf541c46995f75c344154560b24d33aa5ecbf",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0707.json"
+    },
+    "0_0709": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "7e1ca55cd8713de1535e9a0aac8c33e2e8ba01661175924c3edbe9269b042a6e",
+      "sha256_download": "f3a77dbb631f64b70c2a320c0ffe91c1d75df0d1dfa2f7bb2f45306f00246552",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0709.json"
+    },
+    "0_0718": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "41a1cadede7f9cf773e0d2b4e41412eb5fa33902e2a16302fdd7d356cfe1bd86",
+      "sha256_download": "c453ed454e2a58a4daef98c7a3648724b795455c0e3fe3cebd29699540e6d6da",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0718.json"
+    },
+    "0_0720": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "94aaa4c28b168a57f01d52ee0e37df51594f892b83d5dfe2ddc94b6b114f3ad5",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/0_0720.json"
+    },
+    "0_0724": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "0a3f6c73f33a26c121fe45c0d1eaa2a6a4d5342202ab3c0dd118065efe82cf8d",
+      "sha256_download": "8b65dd5a5809551e098fd935868d6d040908f169f78f31762c0ec004dcbe52b2",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0724.json"
+    },
+    "0_0726": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "e944c5f10edb8dcd8a55ea08fcf776ba3c86a6f2e1b4c2f953dc8d91e3e2bd56",
+      "sha256_download": "89e66137f4ef9253d0161aa7ae2b1a1ba6e7186b202d6ea2f8c70ca3b63b05cd",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0726.json"
+    },
+    "0_0729": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "2254ca0997eb613936e108b1c9ec33f021147fbf9ceea7fdd91ea587a3ce64d6",
+      "sha256_download": "a56e2b42e08a2ec4469b1c0159caf936f4c5e32fdea59caad32a01a1f27977b2",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0729.json"
+    },
+    "0_0731": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "24e5c86c1361e881ce3c67990850d8780ea45a1a7681d09a0435c08b875d00ee",
+      "sha256_download": "557b94c2cbc69944102df2da454c0b18301d88a5b38b5f1e5a585cce02b8d8fb",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0731.json"
+    },
+    "0_0733": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "7f5262f34d8cdd484c9fec6b1d8a020d7102577ee5e50cfa8ffc7e7dfe3ac402",
+      "sha256_download": "f1053fba16f1e2c52c29639d5f723629cd856231c724200b20ec7b48e7dd055a",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0733.json"
+    },
+    "0_0735": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "7d92a9008d20c599335d4b6f328d4d3c799e4108084ab58b9ac890f43eeedf07",
+      "sha256_download": "a7f37542f66d556be70418a7a8922478594151cbb6bffc53b0a6e2ba45d3f8af",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0735.json"
+    },
+    "0_0737": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "f27fec8dcbc095c4350d2d1e5ccfc8f83c8c97e4ec4bfa1facb381828d46dccc",
+      "sha256_download": "0ee127e9b0b2016acd38484631fa999116fad9192789a7017116a410b130506d",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0737.json"
+    },
+    "0_0739": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "ca26b2cced6841e2ea93d354fc4beca3ec6a4ebb6a0e31483262d28b1b69ee81",
+      "sha256_download": "bd2946e2f4e64a0c7b7fcf825d88e241b77e0c8429b0519d24748d9272324118",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0739.json"
+    },
+    "0_0741": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "1b7c42c155479de728679f8e937fd9acba456b712e7bffbf042b45743c423513",
+      "sha256_download": "a2789a6f7d04f31750da33f32da309daaaeb2d0112e81de89e4ba45244e375ff",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0741.json"
+    },
+    "0_0742": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "c7a1f187480e4cde5315463596a9378acafe740f06ee9af2564317091f396c74",
+      "sha256_download": "c4a5533bb03c199d0af35e4c247a8c14325a3921bfd9eae4b8368896459b0803",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0742.json"
+    },
+    "0_0749": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "6b2b62d222a6793a61930db867562d3066f4da20bda0a039713696a2b9cda358",
+      "sha256_download": "3c7bd777840a46bff9dd45086931aa662c2d2720cb95caa9cfec20af3c432723",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0749.json"
+    },
+    "0_0751": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "bd5e9998afc71debe2a125389a21eba1d27a7a4abb300ce6a6132817ecfdeb78",
+      "sha256_download": "f033b1ec9e6c81a3624bdffbd838ef059131da19e122c62fab0ce4e5016e8caf",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0751.json"
+    },
+    "0_0753": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "d374a6c10ab8ed6039e560f314e92d7713d134acfa7f10892b079b934d6be4ff",
+      "sha256_download": "5eb471cea2db61555ad12bdddbd83707a02779176aee289afee62b241191bd1d",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0753.json"
+    },
+    "0_0755": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "fc64db5146a6e598185a1b8f148f8aa5538a7eecbeafbd9f2add1bb7bd91a898",
+      "sha256_download": "9350eedf822f2abb480dadb4ca259487e5c92cdebf25c33c88ee027526a6a0d0",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0755.json"
+    },
+    "0_0757": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "263837dc18f16ea63efac414c3d416dcff38b3d93de6a86ef0c12eb5321c382f",
+      "sha256_download": "11764e61e96585ce8487091578c62777adda97fb544a7a3cbef23c4e385770b7",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0757.json"
+    },
+    "0_0759": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "1d685855f40ff90f5aae15f8846429a7a429994c40bca2c7b7e00acf58b55c8a",
+      "sha256_download": "d546d3e7f568de7090a6087ee91f5c2daedf210fc8c7279a0a525c050ac8f3dd",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0759.json"
+    },
+    "0_0761": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "fa3d94fd16dfc2e1d59ac12f28a66e9be7e0e19bc952f1493f068c9925a5372c",
+      "sha256_download": "0a447e3771134cfdce2534e575d71db65682d70e4b78f786b8f590f830b14c9c",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0761.json"
+    },
+    "0_0763": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "b652388403e1c70512499d4a11b055edfb7dcd252047f4e4e0e36b89a88c0920",
+      "sha256_download": "ea5e1feff0113bed5ab41bd4efec94a695ca60db48a8796f61774084f21f967f",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0763.json"
+    },
+    "0_0765": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "65a693e3729c07a5470efb2e421ff7f9684487a5f93303c5bf279b42d1d96e63",
+      "sha256_download": "4a593d844d38bf88cad2d11ec44e6cdeb44de326dc263ffd97b5347cf5c6b26c",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0765.json"
+    },
+    "0_0767": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "79953eb304214f01f1b14e5af102ea61a11961fee58a20d7f0af2a215a5664f0",
+      "sha256_download": "b983791d1d38f8e0f5abe74f1cf55e6446a26620584caf35a16a66a39a5099cf",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0767.json"
+    },
+    "0_0772": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "ad7dabb647e31a5937e9c677ffc2531539cd95a9bbd43aace3161e8cc9aaa08a",
+      "sha256_download": "bf053f881f464dbd38c141be88414a6c6ddf76cb037efeef6dbf8372011e27c5",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0772.json"
+    },
+    "0_0776": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "0808c25d579c4d010e2f75daf8fb1decd964f9f77dbaf49e0414ea6728ae9609",
+      "sha256_download": "adf724654b852e63c99302e3f3c3166f39da4ee629afcce82dd38c235aeb6adb",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0776.json"
+    },
+    "0_0779": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "6c18f09068b7d68095e6b0e3e7c31e8707911b9871110f9f5a3db2d2a71277ab",
+      "sha256_download": "4d8697c90fa2e397e5d6776f1166c695abbd6c84a48dfad1170e1572ca4a7b82",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0779.json"
+    },
+    "0_0781": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "af1e615282ca9915db00af189b7f04856750199d3711dd214ca61a9099b56fb2",
+      "sha256_download": "d7862b9bfedfec982afd880476a33b9b00ceec2f032490c8c3dd05f35e0a762e",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0781.json"
+    },
+    "0_0783": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "6a35cbc0b82a4f9f7fdb0c315daa0cadf5104f0769266588a3b60aef7b3f1faa",
+      "sha256_download": "20988c19a6832b8baa463f084cea2701aa338246676878538dfc64a7e6cb1687",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0783.json"
+    },
+    "0_0785": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "64687207efb8bb07773f2bde83d1800507aa5dc2e74ce30986732e94f5d9c853",
+      "sha256_download": "8110e749701d72a19785277c621ed176093a3112782fb2c2a479913acb70d469",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0785.json"
+    },
+    "0_0787": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "8e21b951d8b324b1d7cf38edf6e4ce7d7ce99f237bbbd37f85cf9a117232398b",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/0_0787.json"
+    },
+    "0_0789": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "9afb0ec327cc2e46500d45f79019cf576d17ef30ceeb1168d889c31a26adc1ae",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/0_0789.json"
+    },
+    "0_0801": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "d20242da5bf88515354f1b6596d663b3fd7d40c434947c0ae73946508c34463d",
+      "sha256_download": "05d939afa5db7201bbffa4a443d97d9c735fe53296833ce29887b32dea3b5d35",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0801.json"
+    },
+    "0_0803": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "ae7ff3e554ec4c5289a9e0e957bac1c00ce9670c41b3351bb7a5fba708f0e600",
+      "sha256_download": "a954c133856cef6b1a14bd6dec5111d17bf857c5040b391998b01fbc3d02104f",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0803.json"
+    },
+    "0_0807": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "48a90de2368166e1b66e959a0f585e270426f8dfd72ac7ce13bd281836f48ba9",
+      "sha256_download": "453014361cd2fc6ca6b8dd3551fb6c9c739474e2b9c0d3de878de45d019870a4",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0807.json"
+    },
+    "0_0809": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "5f424a3642f94d29202dffd73113a3b2760d01a6db77b962b4987f4069889373",
+      "sha256_download": "0ecf58a8b624a4b2f61e3aada5c92dc5cecaf7580751bce6b8d6b13afe7908ff",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0809.json"
+    },
+    "0_0813": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "aa3bd76fad8ee6e1e7caff5277e2f40dad469ff390ed8662716a17aef01b9457",
+      "sha256_download": "db7d23acf2d443370e7551444c349379fb6bbd32b1dffd06e76d680dee3aa92d",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0813.json"
+    },
+    "0_0815": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "b816506f2a576ac37acb7429192ca22e83c4753576cb012fcc7bc226161ff850",
+      "sha256_download": "59b8c98ba8dcc566141fac8934581179cb9fb6b1768ab442f69ee70860e545aa",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0815.json"
+    },
+    "0_0817": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "3e9dc558b63502f07c933af12f097c90e90ad3a7b111e735cc97ebdc1135083f",
+      "sha256_download": "8055c9019af04b0410f6e8709951a6ea46e35c7f268cd48ab4265686e71aff2d",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0817.json"
+    },
+    "0_0819": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "0f8a3d3010fcc93bfc5dafef1d23256813e9e364e1904f7e96fb6e8d3221a8d9",
+      "sha256_download": "c97e92bdc19213b8a2b0825a147901ec2bead13cbe90085beeb20d0e00f93960",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0819.json"
+    },
+    "0_0821": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "151927d46facbdaf90a3e06c3f81e03c6a7a3756a440902492c668b8482e4559",
+      "sha256_download": "2a7b1637998514ca2aa639304d35d208433e303717a70c6e9be91ac0bb36b6c2",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0821.json"
+    },
+    "0_0824": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "2a9e4ad88a24678f919f38e464bb604bd6aa923f932d773c9b0ddd109bf6d42b",
+      "sha256_download": "b3319e4a4bda833c8e900436041ac585c770604baa0742b42004f5dbcf537494",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0824.json"
+    },
+    "0_0826": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "765e74f89953138b3a8a49aa1ba199532b32929d66d4381a1f6227041459e813",
+      "sha256_download": "d3b1ba3f0c5d8046687fb896a2d84e915b247e29159c6c74016f2315b348a410",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0826.json"
+    },
+    "0_0829": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "e3d50c224161bbb6369ac5f1906338ba635b80b8e2e458ab43c8662998e7d5bb",
+      "sha256_download": "45c842e50424b39af0f80243754a0e49b473557e2ce21b76af2041178f736a8a",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0829.json"
+    },
+    "0_0831": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "00782762d98657aa541c9b55b76cd79fc64196b70d93bc3e3750d3d17da50f35",
+      "sha256_download": "b38215ec139232609630d0dd82594478b8144a4d1b15eb0f2cc40ba991f2e629",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0831.json"
+    },
+    "0_0833": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "36e6a4270c415c243e7aed8465b6770dc5bc480dcf8f035478dab9c59cdf74ae",
+      "sha256_download": "82d2eae7c75de059103b338db5d0a0478482a46bfe41ffef0e80719dae8edbc1",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0833.json"
+    },
+    "0_0841": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "245ed97cf3cb06455f98341e3c15fc76c53192e9b10b8106dfd1e308c101d50f",
+      "sha256_download": "251df81f34869d1702b50266d475b6a1a4db563fea3a354a13eac4b65630b0ba",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0841.json"
+    },
+    "0_0843": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "33d1ccb1b0268a49aac87fd50cd2c4fc1644173bf4004d171ebf9e14b42057fb",
+      "sha256_download": "9ed6d3bd71a56fc81525ff3f94ca7bc3cc5ae7f3e41082fd1aeadca3dd260502",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0843.json"
+    },
+    "0_0845": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "abaeb7569c72cabc81102b6ba0b6728c8721d233e902edaedbc573ec74415f6a",
+      "sha256_download": "0c86d9c876f8f5111f8eaa63645d6e2f077d9b7b82b401bb6a30358bc7f0fc48",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0845.json"
+    },
+    "0_0847": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "84e854ef4e0b34c976b8e8ea67efaa3a4a34a49c43db57d80c9ce5916751b562",
+      "sha256_download": "763296758ec6269f46d4d9a5d556b814b7be4fc18a3536e3c87fae85abb2a576",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0847.json"
+    },
+    "0_0848": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "c8fecabd62e9e26c714321b8f66fa2ac5410e87f5294a6c9148f1acf88614699",
+      "sha256_download": "acd3553774813359cb75d176c351094802ad7eca5ef954cac2a903c35f1e0551",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0848.json"
+    },
+    "0_0851": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "cd57b111accef3fc1425ab113a6534e40d8c9013ca48b954c3a1a1b817dfd6a7",
+      "sha256_download": "95885218f886c58701b3ce560539572e1c641c2ff9bc8c5e859187b7045d7886",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0851.json"
+    },
+    "0_0853": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "d078a389db4d8ec20bde58eb681afdc58e53ee10466d6f9915709a6bb98d9fb2",
+      "sha256_download": "ca1c67bc2fc5f6160c56c2b892a7b7871b24d868320a6e9d506b4ccc5b4f84d9",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0853.json"
+    },
+    "0_0855": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "2b9887ac45e091777765f69712adc0fa9a4f75613308f5901fbd03e7652853f4",
+      "sha256_download": "51ba85fc7d102cca0127b2b5673b90b8c13bdc5cbdf8db7e1324303222892b3c",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0855.json"
+    },
+    "0_0859": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "5d40dc45662f4f89440851eef504a883cb1a2534d3170da94dd1a7bf00634692",
+      "sha256_download": "0a80cb7a8d96b5dc8ddd8b9e5e5f6e6554fe7cb27b18fd851f1d21955ab991a5",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0859.json"
+    },
+    "0_0861": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "9522120be3d8d60cdf30575e0e5e1c476686860ee960b832ae3fdb3d1dfe2466",
+      "sha256_download": "fc7aa7c51cfb8c7ac676137b95e8decba37434f62e3bc3925baa9cfd22c5a84d",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0861.json"
+    },
+    "0_0865": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "d5189ceb68811fb35ab387ebacd84c9094c97097a6976d676ef77f027a4b2d03",
+      "sha256_download": "132722bb903852c3220dfd81e1c7afe6c1e7d53b66ebd2466475f65eb78bed20",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0865.json"
+    },
+    "0_0869": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "c795372113045c156453e6228049071f644af58ff7b883007a319a51cf646564",
+      "sha256_download": "f9f87f6719d7a4d1994ea2c0ff99180160eb9ae6e503872c691d69d87f7b5601",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0869.json"
+    },
+    "0_0875": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "88b4184e89176b0f80d1cf615dcf2cc2b7ef2257458efbbfc2c7670bad540297",
+      "sha256_download": "8f06fd4d36ebd01e5e2fba7a612782e8a0eeb399ac1af376344f4136c033024f",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0875.json"
+    },
+    "0_0877": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "368e87fb0418b8c81f542f9b65fb0df1ad7b345a269ac69f32c3e0375023bc2a",
+      "sha256_download": "ce16bcadd4c2331d870e3d66c94147f95702490913e25ac823f5fbd4981fbbde",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0877.json"
+    },
+    "0_0879": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "5664f42d52e42e2b99bf84bad54404e2fddde308d34ecd8d10bc26dfbfbd19f4",
+      "sha256_download": "f287386005b4c15e5b977fa973b5e838fd7f74332234554b0cb84bb3236aff9b",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0879.json"
+    },
+    "0_0881": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "9c0c7505d88c407650f13b93ff40f5e95837c229bea6cc23b5220c0ce6b60007",
+      "sha256_download": "7afdab6372952317eabc2f511a86ab3e9764c9196b19c112816dda0de4667d86",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0881.json"
+    },
+    "0_0883": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "2a33572a7930a707158a7eda8ac008afad8a7945eab0b292db4f64ee401a2933",
+      "sha256_download": "a04c04e3a5187e5cc5f56b680a753e24ca7df3a6748163b86e5df4588e28cbf0",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0883.json"
+    },
+    "0_0885": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "7f2dad2d08843bd3e8d18eb7ea9e18822322e441802498a43dcf97b3c01d6bf2",
+      "sha256_download": "10ed2b9dd1db337332c988055578c4f2858e9eba600857471255e0dddacedce5",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0885.json"
+    },
+    "0_0887": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "b6cbd98eb7ac53cc0ce200a90cebe22a94c5e26c0fe61cd0112d5ae446773bc3",
+      "sha256_download": "0326414a9ab4c53ae5f2ae8a16feaa9b4b2d7f3903c016fd89ee2da22b36667e",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0887.json"
+    },
+    "0_0890": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "4297dbe35ada1ba3d9f5ba1f8b6a1dba524a8b637d5a6f37e49ac9dba29497b9",
+      "sha256_download": "c2ac73a40b740d13148196f30525444665aff88fec8e77c7a741b69ce25fcbc7",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0890.json"
+    },
+    "0_0894": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "46574d888dc8d5dc6d4979f8259838eb3d2259189f13bb3fb0206fe76104a4d6",
+      "sha256_download": "d631afeca280b44390a7338034233e39172461a144b805cc198be5c0ed0f94b0",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0894.json"
+    },
+    "0_0900": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "1e0f68d206097d074a30ac4b731fdc135af956d9c92920957b40785716cceb66",
+      "sha256_download": "3a008cdf9bc95d7a952981a9c3fd1c9bfce88e98144fa24f6990634d628ee35d",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0900.json"
+    },
+    "0_0902": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "fed64ad3d78666d70db1c9291d9310d213f1222f6a63986da63552d259935b06",
+      "sha256_download": "042a34ee0e3f54cfc26be15f54422cd676f8f60aaf26c3153700d94160086315",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0902.json"
+    },
+    "0_0906": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "831a328ee45bc5f1460f75c0b11b0cb9fafe56d36dc3400d243e6b5801be9a11",
+      "sha256_download": "e15f43938e2aa285985d9c0727431039a1f4401655fa52b40b31326dfee69895",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0906.json"
+    },
+    "0_0908": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "49281b5570ca04bacbbc03f028743b172a8e981dcf1294558621da1bde22d36f",
+      "sha256_download": "4f739410d66ee53d8aa7a8292008b12ae6e1e9622addc3f07bd13570e7235b11",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0908.json"
+    },
+    "0_0912": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "0594fae5f13b90277065376470f269f155b66a57f2eccdb3da5ac133cc4c54fb",
+      "sha256_download": "115fe5b588dcc02a3e2202189cc42a58daa69f5444ff9181fef49fdf4a7ff26d",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0912.json"
+    },
+    "0_0918": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "ce9d541e4d5dcf6b3ff3f0d3522ba8164ed1c1850e33e1bca15d473ddbadb8fe",
+      "sha256_download": "f0f66c0cc0dd74f81922c34b67f1c81851608b076617181d911c99ed0db992d0",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0918.json"
+    },
+    "0_0920": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "9b0193e1d70dbdcae7f370bec7cf67d98a0801a7c413590cde2db5ea51fec4ef",
+      "sha256_download": "a7fc5ba4bf90cc47f17fc3305007e5986190b178b862c96ed889eddbde4d66f7",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0920.json"
+    },
+    "0_0922": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "7b25029a4fc7c13d6f27d0b94a2ef23d23709640eaff4b440129fa53ebab789a",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/0_0922.json"
+    },
+    "0_0924": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "d99fd85a83228996fafb89a60b5acbfbc84ec940ac0452afad4fd8303a4d371c",
+      "sha256_download": "83ea9c55bf3822b89af723dbb6f2ea7bb52a482899dcc9daeffd38e2a92b25ee",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0924.json"
+    },
+    "0_0930": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "6eff5d5f68ec76ada0f0866f685f4019e287cf5575464c5f3df0398c4d106f69",
+      "sha256_download": "2dd2f1c0d66794ffde3cf8b1f0660c8a0c5866d2fa75ea69a103708cf91f7dc8",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0930.json"
+    },
+    "0_0932": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "e9a07afd18079505dd38cd1551886d73a705a75c57a3a562bc316431c245fa77",
+      "sha256_download": "8e2caca433be895ed18335f0b395951d4960f21cf485c520d25df5620e4ca75b",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0932.json"
+    },
+    "0_0934": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "8b80b76cba91f42c05ec90335cb74cc6a162d845e3378057f0fa4539ebbfb32e",
+      "sha256_download": "ab67b2758e53f59a872159ce6c558460112904f609ec86b05fa0b52df2a77b79",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0934.json"
+    },
+    "0_0938": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "6eca2f3ddc8fcbfda318345762ad9c91cddf98fae87034e704a17ac1ad820942",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/0_0938.json"
+    },
+    "0_0940": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "13496b013a83f5b4467e61142a64f9be93ae70a8bfc5b7c07c79c6fa6fe2b4f5",
+      "sha256_download": "9f7e5c4445bd796cfe514bdc3f19e494e0bac578f500c5dbc88e042a8a50547f",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0940.json"
+    },
+    "0_0942": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "e872d6e559117ac23a16d5559582eea1e27aa8ab10469a4ff7521ebd1355b132",
+      "sha256_download": "d7132ff918d89d2fa2b7eee8b8fc51b70185d038a9e15ea1aa4890bbf3c1dc51",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0942.json"
+    },
+    "0_0948": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "9549036966d53877355f65162e1c83fde53d2d98ee33306b5a0b782cc840f889",
+      "sha256_download": "45ba5ab28fa17104d9efec176ef28c0eb35b35a58b3ab7ab767c16f35f9c868d",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0948.json"
+    },
+    "0_0950": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "51d074c7b65579cd41859674d126cf21140e992d0f396e9bcda62c3a967c0f9b",
+      "sha256_download": "9575653e40829aaafd68d03b1f2005a8a055c76e40cf5570153d74ed7694dc0d",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0950.json"
+    },
+    "0_0958": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "69ef32e30eb0c53b20d7322aa0506b8ee642c5b32499c8c1227f176da4a9690e",
+      "sha256_download": "32c7c97d8296b8c700e8bf0943864ba94ae12b701d1fbb1ec048420460040f70",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0958.json"
+    },
+    "0_0960": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "9905efd597ec54553233d3cc280a256489b004083dd7b993577ebabd4ac1118c",
+      "sha256_download": "c2bafc9b82d70a61c44ce79f9c77a4b0c96a88e4db9584ec4bdfcd050bdf2b65",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0960.json"
+    },
+    "0_0962": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "c7156a6b98ab73c1a3c132a8dd76615296bc78be5ef16113428038c467db4a5d",
+      "sha256_download": "71959915f8cdee93e9bec19265e288fc8bf94ae13b0658e944c3f0c4504bb916",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0962.json"
+    },
+    "0_0967": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "fb4871fc8c3de7546e6a4ab6a71ee28a0e68e719f02b743d3961227d8820c621",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/0_0967.json"
+    },
+    "0_0969": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "39fe6ef3c564412cff6fccfe0438790f66ae11638671315b7a43a3f221fc940d",
+      "sha256_download": "7ac6a3e3e4fc7769b937b2f55caa0b8332fa9c0a1b87675b53af6ae303996f3e",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_0969.json"
+    },
+    "0_2100": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "f301daabde442c2701559ce27c8e40cb4bbdae73d1137d64d228a9b43ffca798",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/0_2100.json"
+    },
+    "0_5830": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "c5164440d9ef70b7018795204a03dcd8db78f13aa488f779be0bf5aa8906fd42",
+      "sha256_download": "106318ba3a5826b6988cb439179bc86eb151bc0bf843c363cf56806636bce0e7",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_5830.json"
+    },
+    "0_5832": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "0f10fe58b43d44e4959c69425b06e405c616ca8f65ccc964ec1598272168ea33",
+      "sha256_download": "52395237760c9e2c3768bf429cfb5b749ed228814175d0caff1fbd9471d9cb68",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_5832.json"
+    },
+    "0_5834": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "37e2534a564921ca74118e3cc86e9412da1ef1af848ec864c3066c679021998b",
+      "sha256_download": "aeddeb568b55913bc5ee51edd2fbc1df74e1767e13648223859b08a5a3c73a38",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_5834.json"
+    },
+    "0_5836": {
+      "source_status": "ok",
+      "model": "gpt-4.1",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "7c738a1b11574d41e49e1105296225f41f7b21fd8e7c21d159ee5f46ef991d4b",
+      "sha256_download": "d5d69be76882f42ca398be8a8ca9cf34b1b3c45b3670f236cd287c94dfef15b0",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/0_5836.json"
+    },
+    "0_5838": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "ba15bd37c753e180bf1d988ef49953f67969b8f572a395d97b8b2dfef118bb81",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/0_5838.json"
+    },
+    "0_5840": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "aff6fd5323a20de0134a987c12f322dc1f8a9411397e882817877f6726cc4aef",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/0_5840.json"
+    },
+    "1_0014": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "37a47c718425813539f74f54ce8140dc6d87e8bebe92fa4c1c4d7371b2c2fcf9",
+      "sha256_download": "ef0a0277cb3ee1fa0e7713f39dc3c2db50636057b32a019e52d95ad52008e745",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0014.json"
+    },
+    "1_0016": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "c94c667ee0441bcc596bd5f1379af8a699ad7da43e37ae677a74d70bbeb81e73",
+      "sha256_download": "5617914fd49b0384757c73f9b14da35a286963eb6b7996961a96293201993f68",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0016.json"
+    },
+    "1_0053": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "829191f990cec75a90bce76f61b44c55117969de043c1d0a27ad55f47ad2f848",
+      "sha256_download": "0b3e073aef08223ff728ef2c292a0d33a0fe69642eeeaf35bc0a77282223d6d8",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0053.json"
+    },
+    "1_0058": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "c572afa381202d782d8d760afb3a18d3e33078a45dbfa2496ab60a0d8fb2a773",
+      "sha256_download": "e083fc7a5152ed9ac3f1a06eaf41ccc622f27ee796318d205b660027a3fd48e8",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0058.json"
+    },
+    "1_0060": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "dcd40a807dc844eb4821c2df33c8dde116787488424fdf2056d81cabaa614208",
+      "sha256_download": "a97b9c0220d794a503c96f979ce6150a24917a87aa7082dc923f03706c3d7496",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0060.json"
+    },
+    "1_0062": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "207ff6fc61666b67ea99df0df6d98bd2f5b1b22e738551919efe480700cbe23a",
+      "sha256_download": "e34a16de7afbbf5014bc41e62c2aedbfed6a05191ba357ed6fa07522efe551c0",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0062.json"
+    },
+    "1_0074": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "aaea349e425ce8a746c581db4699135ca92c1ec76b274a0db215ff65c40d1c20",
+      "sha256_download": "825fb77eed515bdf7353ef474f4866355bc35b6ea8ee3b111f52f11d2d797dd2",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0074.json"
+    },
+    "1_0078": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "9f4d88c117db5b796a0baf12d75118a969b117b4a32a06b8bb6ff7d410c8f8d8",
+      "sha256_download": "e26ba48268cfe969adf6b6806875b1dfedee6f1d05e28d1dd1d5403a581f92ff",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0078.json"
+    },
+    "1_0080": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "c2786ae1c4f7b40d13b779e73803e7c080081f793b665593b869b820c0416c9c",
+      "sha256_download": "d0f45151efe1fe72741083c9ee8c7e3cfed402f77bd61ea6bc172b8c4fd68c60",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0080.json"
+    },
+    "1_0082": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "cd4cea9afa8fb6bdd14f17d6be17aa432c0ce57ad5bac2810284e093998d498a",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/1_0082.json"
+    },
+    "1_0084": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "79fb7a655b91a82899cb1c02961497eabc62a77de622817a840eeb866a71ea12",
+      "sha256_download": "4564de2fa3fae3895011042469a49da3ba597fd45ae65072f540c886d2f7c39b",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0084.json"
+    },
+    "1_0086": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "f86708b3d81401f4d938802f4af539ff13c69ac0d5bb5a3ea764e73f812a18e5",
+      "sha256_download": "3456c716c7f1a37faab387843266b4fc3d1d23e8e7f83ad4023d7fe3cc74c596",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0086.json"
+    },
+    "1_0088": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "76b8706909de7967f29ef9626e40bdd460c8bdf1e4d0b1c535c9eb98518e228c",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/1_0088.json"
+    },
+    "1_0093": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "ec4251a70bcfbba6b05ccd7767a0c47ca5191ff18a6e541707227807f7886156",
+      "sha256_download": "a3f0a628e6b00fc87e0ec82323e5bf4b1693de18eb7c846c8b3151f2d6f2ad83",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0093.json"
+    },
+    "1_0095": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "5edb25525a69e077fc5d5fa28fca4602130628a74d843ce7d6278c5bfe2b1605",
+      "sha256_download": "0adf1cbd26a5034d4de66a924e3abc8c9d202084cd0dfb7bd33f94da547a7719",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0095.json"
+    },
+    "1_0097": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "e24d06ca994bd8c8b345dd3dea4a1a1697762bb9a1bf03a7030cfb7225bc1c4f",
+      "sha256_download": "546460d53d1d1fe42f031dc5729c0182d8652bd080a99c61580d08623541cc1e",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0097.json"
+    },
+    "1_0101": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "43325a0ed2ecb6f68579631a26b4ae1c671671008f1f3fea0ec9abbc96c0edf2",
+      "sha256_download": "85f949e12b25fc85984774523ec001905d4f11b75f61bc319d91b84288b61be6",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0101.json"
+    },
+    "1_0103": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "cfeb124ed2c2fca8f491a4243aaaeef99cc6c651c88b96f93b4fcdb17cf67f91",
+      "sha256_download": "5015522b16b32611fc01610274e7b6c0a7ed046307905d2cead5001eeb47121f",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0103.json"
+    },
+    "1_0111": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "f84281f7d8bbd176c87b5a50cc66a3c6778b46f859cb65524a68b4b885318243",
+      "sha256_download": "af25603c93f0d80b645de3c498de39fac343c0d82fe3077cf4a11331c0a90e9a",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0111.json"
+    },
+    "1_0113": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "2643164bfa31f92344c0f0015cf75f16469b8e650853c6276ac1061ead67862f",
+      "sha256_download": "bfcc0335b53110530f8b53e7e9c0357d4c20a2637cd08dacf69f90360029ca9a",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0113.json"
+    },
+    "1_0118": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "01255520d759b8cfbe391d6b0b0c312a6a35a3b852bb7431119d71ed008cbbb1",
+      "sha256_download": "bdfe55c6add144b65767451464b9aeed2c4942b93210ee06717d41f8afcc93fd",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0118.json"
+    },
+    "1_0120": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "a76b6c20b6a373ebb667ea8974777c69a0ec3ea7c1897a8f07b5f8fffea86d9d",
+      "sha256_download": "4b458665735a664189a731d6590564d3868e06ebf5c564da31dee8eb2714704c",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0120.json"
+    },
+    "1_0124": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "9050a19f92e72beea77493ff2482b06455a5deba83cf9f370dc9cc9663423cf2",
+      "sha256_download": "d506f5529fcd29b0cfe84b6de6464c16c769b02d33adc34bef20f8192fb9afda",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0124.json"
+    },
+    "1_0131": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "d1e5ca1d1aa65443f068857da21dac16644d5aee84b13b293bb3bc7b260e8a6f",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/1_0131.json"
+    },
+    "1_0133": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "c594ad500011adc900bacc096f8c5035950e2c626ad58821f801340a863b9c32",
+      "sha256_download": "4f7ff09a8a2d4ae83dbb82131512cd1d31560f167a34cfd8d42a306f68916e01",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0133.json"
+    },
+    "1_0135": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "9414215cf239aa4255f501affb4803e3d6f86c07cb177f6aca8fda4fd116edc8",
+      "sha256_download": "13fdca9d06e3553981bb99cb6958a7bba319b5adf6503b914ccd5d39c25d0cc9",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0135.json"
+    },
+    "1_0137": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "c53a94b783cfc98179621c1d73dfb9da67eecb203da8a6808ee1bc491205bc2d",
+      "sha256_download": "cad9e540a43f56211588a8b67bb850090b3c242554d86ed928621cec17840233",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0137.json"
+    },
+    "1_0139": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "bc32404cc8ef0c4c8424c3672eaf1d3b661ac803c2ce749161ca4941ade28e2a",
+      "sha256_download": "7c8ea0552b78a4699434debcc1c9baa1cb031daa4ff3d66a5b0b7e60e97b5d58",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0139.json"
+    },
+    "1_0141": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "65632f4768ba4a1489ab61700c17f15e3b1a6cf62e9510f69ad151be5dda3fae",
+      "sha256_download": "8224ca108391a19b686d4b01a8ff33ceea5663632645769d6cee7f2d7a1ea48b",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0141.json"
+    },
+    "1_0144": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "fca54686610afe3913a361b580364d364a081591da526794256b65fa9122cbc8",
+      "sha256_download": "8aa437391cd844b3fea69612dc388374c0f818e3461535f415060f27ba14a187",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0144.json"
+    },
+    "1_0148": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "22c77bafaf5d219ad4b6f82a905aa70874c7335b05c18abe1b7c45c1ac7c19a4",
+      "sha256_download": "30e7c344e7bb15808b32231fc9bcabcb48151593a954619bf5e4763364fc7656",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0148.json"
+    },
+    "1_0150": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "1d58055c6fc59c72ef0e09068bfd123c98ff6a84672e9bd5773b450615ff1f18",
+      "sha256_download": "07050eeb81d11cbc95fd200accb18a9238849e269b30e2813424d4cb3ae66780",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0150.json"
+    },
+    "1_0152": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "b1a3b2a0c61fbda667833bfe39fc635b4d93f1b0861d869a496a4f42c73b64b2",
+      "sha256_download": "48372aac0456e8771a1bc8c87751bc963b0482ed6c9eef96fecbd822cf6ec765",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0152.json"
+    },
+    "1_0158": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "cf5ed00d61159430e77e449dc6a753235e1e7514ae0cc8859937aaeb1619820d",
+      "sha256_download": "c4d42a043e8e2305ffb3a05ac2425cd8e897be0b4264596b6a8e20e451013fdf",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0158.json"
+    },
+    "1_0160": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "32757edff20f0ac3c988e495bc7f1393ed58dcd07499b8cdf6fa722c7c6c299c",
+      "sha256_download": "647fda5c6932fbf5361d5948492b2ba36ebbc5c9226d4d94a0ed63782df0e0fb",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0160.json"
+    },
+    "1_0172": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "2295f73cfea9578fe3389591f1f66ae8805c5141092f09f16cf5b73f0cb2ed13",
+      "sha256_download": "90e308a96129b39328cb1ffaef30914f67df2b3699b085f11e30ea93df2d2e3d",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0172.json"
+    },
+    "1_0174": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "2061e0295a0c6368915f1fd6961501e9113ba35553eaa09ba0b406de357ef7d2",
+      "sha256_download": "00be709dd2f7ba0f769cf612efb6ea4640231bb6ceb649313537b241436350bf",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0174.json"
+    },
+    "1_0176": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "9b56883e6f9ad2c07fdb011195573236f4d1b7d971a79788879ef1a12c795849",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/1_0176.json"
+    },
+    "1_0178": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "5ac542e5cfbab5ac5b4ede17805eb9650bff96f72a7eefe47635711d09cb349d",
+      "sha256_download": "3d78e958ce5c66dc11f5e08619417c96530bfd0e85b36830a7086681b27a44c4",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0178.json"
+    },
+    "1_0181": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "7dbcf6b77da806772b8cc3d04db14ae7ce6672d4e250e79d71a4512b5913ea18",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/1_0181.json"
+    },
+    "1_0183": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "82504e2b125196ac4546ea14ad6e873ab702057b9142c38cca05379c85f0bc77",
+      "sha256_download": "87d68e75a571697fc139b5aad504878aeafa5c66f223aafc20537cf738f2a4e5",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0183.json"
+    },
+    "1_0187": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "69b58500a7f16a62824881bd9fe40dfd64b9c84c97b2ab9fea702519df83f70b",
+      "sha256_download": "7f963e084f4c6ff8b550b30a911273cb728b19b54aab7b4946137dca5fe91c18",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0187.json"
+    },
+    "1_0189": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "c15f27cd1217c82c8dc05e4c9e6696ce83e6fe7fefa95ef21dfbd02ddfdd2e52",
+      "sha256_download": "254122f863261f4f7508e31e0eed8138f6fffa612e6b2c54cb24f595568a1739",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0189.json"
+    },
+    "1_0191": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "6a7506eb68d431d9c5bc07ed0cae2ed06b431aa2edce68ba5a3a1923df8aa2ee",
+      "sha256_download": "5c6f953a74d9b6bf5e21d5aea9e4cc1fb0605ce6028c779d9a1218afe05dfb0a",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0191.json"
+    },
+    "1_0193": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "b42a11ce46d3dae2b69227a5304430ed94885780aa9f02b474ce898e4a1f26c6",
+      "sha256_download": "3719a032e88b5144dd91261460f680c7d8c35ad7be64afefe8b507245f5c413b",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0193.json"
+    },
+    "1_0197": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "3e9c81be170fc2a768b8e233f26a4523deb1eb0cbc97ca711d4520c3038f6f3c",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/1_0197.json"
+    },
+    "1_0199": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "8c1bba6c435981702875d3bd51b4cef81fd47d572628c95589b06ce88e6c08f9",
+      "sha256_download": "e920a0e18fbdcaa4b0397e2cbf62b58bd00bd1956381175edc99fdda9ea17481",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0199.json"
+    },
+    "1_0206": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "80f1fc4bb13e5f62f7ab5ceb5b041d83020955f697c5ae803398bc88ee59e9d3",
+      "sha256_download": "09f28df07e838bb4acb1848874f108f3caccf9c58e02d388b576d0e7bde52483",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0206.json"
+    },
+    "1_0208": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "6f4ef5ef566d3ab357cf9f0234eecdf2fd06960b3b31fb401b423b5bc4ad82b2",
+      "sha256_download": "a365e0296bf19d2ae13ec1a5789523d7fbfbbf0e3488e097ab6721e1dd8bd314",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0208.json"
+    },
+    "1_0210": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "daf1e589cd2e5af9584b49441419a1b8b316f1834f08cfa1fb5d445714e34358",
+      "sha256_download": "4dc661d4ed62ea3991426897ac48947f59d6821d1716df8632ff3615f165bb5e",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0210.json"
+    },
+    "1_0212": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "707aaea9c416f8ea450edf15d38b94cf613ef85765600ad55313f456dd11d2ad",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/1_0212.json"
+    },
+    "1_0218": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "8b3b1235120799e5ddddd2e0bd11aee356ff22cff1b3667bc45275db7e418ff8",
+      "sha256_download": "3e2eee9ceefeb16f3864155a3a91f023d198a6d70d263d690f61ed5d688be83d",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0218.json"
+    },
+    "1_0220": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "352857faa7df6b9e49b7d6ddc4502d184d1ef3a2f5fc6c862b6621731321aaac",
+      "sha256_download": "c04521146b2ad9fcfde5233fc038907bbe6d7c5c6fc51ad77cf7c3681de2921b",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0220.json"
+    },
+    "1_0222": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "61fff5d23904ded6aab06dca27141cebc051e5457b989b4d4bec5de6f4eb42db",
+      "sha256_download": "62d8487b723f7ec2228ce21a1b83f724df038b05172ee52c0c04ac8812d900d4",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0222.json"
+    },
+    "1_0228": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "eae33b2beb02332d882c87a580f20d846a46541cd3f3396edbf4a5761e56911d",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/1_0228.json"
+    },
+    "1_0230": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "0efaabd513d1c9ee88095a401c93aaf4bf26d2f76c2f9437f3d4940f82faf787",
+      "sha256_download": "eeaa2b5b8c4e519ae2d4c8d18abd7686e527864a65a2cc22f2f88adec1a2e964",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0230.json"
+    },
+    "1_0235": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "71c3a860850ace619941c55e6d0e3b0c900bc071cf51136012384c59caf3e5b6",
+      "sha256_download": "0fe41c27fdb8d9c04031f889ad317ee629c476f7c9c688e372998d5cd84d98f2",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0235.json"
+    },
+    "1_0237": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "e92120e225a08695ff4bc8d7798cd406c5fb8549f54bcdea0dce5c62c2e0c380",
+      "sha256_download": "79a854b6c63ee803d0890a7e3f2d5b6673ae59d536503724bd10696acec04afc",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0237.json"
+    },
+    "1_0239": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "cc371c872fd2d28f7326f1da9e0e8eeec1f9972ca44519eb617a39aaa9650ca0",
+      "sha256_download": "a6fbe04ce0ca17e6c1f20297a03ef844848d7faaca48b29a92b92529bebf0cd3",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0239.json"
+    },
+    "1_0241": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "5c26f0ae10cc403f0e17d76f160cdd3232bc22aaf7a6450ef3e0a8681db43e8c",
+      "sha256_download": "739dfb3109312bc5f8afe848e6348df49b4b591af15c555e38f4922af49a5d85",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0241.json"
+    },
+    "1_0243": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "00e65b98a3e9766fba85653b0a510ec32f2acde69d517bbd3d45279f975d5094",
+      "sha256_download": "518d13d55d0d2cba0eb4af591bb9cf2a58ecedbbd4b8e6158544ba05eaaaf988",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0243.json"
+    },
+    "1_0245": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "33fccc2649fc43ab439181d46b64d3a4fcc286e610f48366aaec80e1f955b966",
+      "sha256_download": "6a0fe92a857fa4a08309c45d766c57a00bc32cc55aab8fe1a5eec6b7c65b6855",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0245.json"
+    },
+    "1_0247": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "12e56787500b9b7030a232b090cd36197728954232e0eefdd32934d9403be973",
+      "sha256_download": "f72c1f3849ae725dc05040837df9669d7f7be2ecdd237ac0ee6fa44c20b21407",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0247.json"
+    },
+    "1_0249": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "77673d1b1a20fd6684a48386361dee72ae0df836fdf28e13b9820082bb551004",
+      "sha256_download": "6d41701e6b0c497931010abf128a736de1615e02845242399768c1cda0b18b2a",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0249.json"
+    },
+    "1_0251": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "826a1ac3e3c871c4c224f2b612054c985f0e642899a0384ae19b445d574ba7b9",
+      "sha256_download": "362d2eba0945c2cf0463a4966430b6fd603ec72eae0bde838f4e89293f3ab2e0",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0251.json"
+    },
+    "1_0253": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "1fec7571364dbe40f8b5c13bdc8d07e7f100f3f5edbff710ff4ef75e80adfe11",
+      "sha256_download": "06e3a5289bad1ae68354277f7729d069b4c2a585001a60b8c9870ead19eb31e9",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0253.json"
+    },
+    "1_0255": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "7961cf61ffcabf7297ca41a462e0d24196d962e095554b715fac963e1d8944e9",
+      "sha256_download": "1e25ccdec402f87a6935b32d94973d78797b4f8e2a12fbd1f773593cf5629e27",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0255.json"
+    },
+    "1_0266": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "fea280783123c92303d1b0051101e0cca6b122fbc563ccf89f0749ec91f80a80",
+      "sha256_download": "b6d004816884548fc74426ea16d443adfe68e4901844e4649ecc2e716b1f7fd1",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0266.json"
+    },
+    "1_0268": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "e965b4aa76e41a636cfadf32017d3d5d44b0b526f074fd283fc3dd2ef79d1781",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/1_0268.json"
+    },
+    "1_0270": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "07b19c683bb04aa97df703c41252a3cc1be166727b6c65f933dffdc73232ecc4",
+      "sha256_download": "7e7540da3b7d4ddd398db6413ab88757d1c353adf804417603e982334596504e",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0270.json"
+    },
+    "1_0272": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "32359a8d1bb6f6569fefb71719805bfac88fa8eab7cc8eac20e8c932f8faefab",
+      "sha256_download": "007d91f83181b6275e8a25c3ec93e6e6ce0178e224fee47e9c4db05493b12fa6",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0272.json"
+    },
+    "1_0274": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "30013ec8a0bc845011f8ac657f177b9a28012d60c42da31a4621b3512a6f4330",
+      "sha256_download": "4dd3ff0842dd3dcc06eaa16d681b458d47d7acd0cb8aed93aacd66169de8fa19",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0274.json"
+    },
+    "1_0276": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "4574b4f95ad598c49dd8469d956e859de6304bbc81ac5fb7911acff204696281",
+      "sha256_download": "0ed40ef879b1fd6e8057801d1063908ddbf77384d7d05d9e481179b865d38ee4",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0276.json"
+    },
+    "1_0278": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "ecb2d944648933100a26449b3e693c720cfdbda6658f5058190252f85ac72652",
+      "sha256_download": "0e2318c9e783468949720ad6726108e2566736f4162b617e38f8f29928c234e2",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0278.json"
+    },
+    "1_0280": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "7b0e3dc2d8f5b5a3c95fa650a24c621b9fb224b4101e2259424cea5d5eec68dc",
+      "sha256_download": "85e6beacaa529fd0dc42235980b1953f5bd6d1b920c041eebfc01cd5bb0ca8ea",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0280.json"
+    },
+    "1_0283": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "a37e16bdbb5eb6b0cbdceeba20a07691ff76aca211a1dcc2511bfef6e592d764",
+      "sha256_download": "04130a092cc494322756e8bfabe32c4824831d6fceedcbe2304d31a01d3648cb",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0283.json"
+    },
+    "1_0287": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "be01bc9d0a42095e4b40a839e24d3566f4469ce4753603e4345bd6f3ce4ba5f5",
+      "sha256_download": "d14d7dd48bab8ce2526fd962a7e45851fcf4c0aa4a92b834cb26872d30eacd5f",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0287.json"
+    },
+    "1_0301": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "063786eaf8f2bc1c2b59de7ee9d0b4bb2b5d7cbd7f6a23ea25b1a3192ec96c42",
+      "sha256_download": "de8e82107a62e93bf4337f06614a9e7ea9d44fceb17fe463bcb09545095d5e26",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0301.json"
+    },
+    "1_0303": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "feb23596186a0a5eef4c7302f8c9b6492c8d320148e76ab248d4daa1e2ce8a86",
+      "sha256_download": "5aeb10504523d8b366710fb0b91f13acf3e411dad86c86a795c4dc72d67e43a5",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0303.json"
+    },
+    "1_0305": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "27bbfb1f6d26e8410a538325893fc8bdb1ba0dffeef70eefae65d09665d09a7a",
+      "sha256_download": "a6e7ff9adb6ec0fd96fb1aa0ffc2f06d6dbe1e854bdcc7fe88603344b97108ba",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0305.json"
+    },
+    "1_0307": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "fd2f4b261d8f079596572bc586b4a4287c03cc851f1be212f4786216abf34e00",
+      "sha256_download": "bfd5f7427024532fc9356a00259c7ca7db5cf04b0b84be5cbd748921ade53616",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0307.json"
+    },
+    "1_0309": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "0d47b301489aaa89339b2b27352d8384b5fbadee46e68aa5fe82446ccb3f7594",
+      "sha256_download": "e8f1c2913ed78c6ff5334e846cb82898e74a794317217a82bb06e1364f3bd77d",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0309.json"
+    },
+    "1_0311": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "3be1552bbe6139f0f173c022f1da89d61bc3076ff3e163acdcc537d00ac06289",
+      "sha256_download": "6691405a09fab0b3492904dd8ef5d788abc1e513c5f8126683f32184ee1d08fd",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0311.json"
+    },
+    "1_0313": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "bc0e809792699c95a1e603a67c32c48813c8e3e23350952a53157d815bd80096",
+      "sha256_download": "79f18542dc511b42ff22274fecdd39657293d2badff7cb1a404d02766082e8aa",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0313.json"
+    },
+    "1_0320": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "44d198db6014fc89a08f6679f9ae43974dddf5983af238086e76b36a44c0ee5b",
+      "sha256_download": "d3c506231d2a073dc23444db04fbecca3c1ca4f2f63a645f6cdb2c3d5c3cc460",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0320.json"
+    },
+    "1_0322": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "3695d4c14d6594a60aff9f5090290f8c0314e1dd574e43d09b4d70e9c95ddb58",
+      "sha256_download": "2ca884df7783a633a08b7b01d1d59f0f3cd8ea87c25592510777f91bcdfeb02d",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0322.json"
+    },
+    "1_0324": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "b3ea4e67912152f1559b0f5a783c957d92e8543075560a3c160b4abf010f4df7",
+      "sha256_download": "8259fa41dd6cffce4031c39e3848c2883077375f2d1521dbf9c11e4133f80159",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0324.json"
+    },
+    "1_0326": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "53b2801d080f60cfa1fba70b10e428d9b4c26ee5d779ea5fc93993683ebee9e9",
+      "sha256_download": "31cde02d3253fe8e22352b03446957fbd3549f206692fed13a6a68a22361146b",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0326.json"
+    },
+    "1_0328": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "796217fa6efa4d5f6fc0fcc18855f1f92c6be5d0929d0e43ef0704312a14eb4c",
+      "sha256_download": "2fbd4cf41b8f1387997cc9933f8c8e003b5f78e5258a3f9e3bf786828bf673c7",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0328.json"
+    },
+    "1_0333": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "69f70c3b122c38665ce1cd4721744fa6dbb792d5c00ea83b1cc57b4ee5b44859",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/1_0333.json"
+    },
+    "1_0335": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "ad8c628e47cf3243bcb229fce0daee5e08fa605217c536c816769bbd3d52aa40",
+      "sha256_download": "437b339c0e86839d176ef2da9e418f5f53a3856510905476d264cbd1a4a4f07c",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0335.json"
+    },
+    "1_0337": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "bbdaa964d59fda297c18f81e70e1a1d938d5694ab87e430abe0e3d0c533f99f9",
+      "sha256_download": "ec580d7ef216734fb8de192818092974b435847785cf71d5018cb97d3b59f4e9",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0337.json"
+    },
+    "1_0339": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "c1e17be30911e818b65ca812983a6809bfd00e21ee2d8864460aae2184b90089",
+      "sha256_download": "630584275fbd4b35b68d205979c2edbac0f32e75a1bab837ff2644c495e562aa",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0339.json"
+    },
+    "1_0341": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "0cbe93843435b36e659eba5f64ab77ef81fc2edbf5dea2d89604617d59b28c8e",
+      "sha256_download": "f900c865971b174c5259a71729c695a5f0cc00a10717c7c0002b44511861fd06",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0341.json"
+    },
+    "1_0345": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "d99476f546df004bab5ce93589d25e9edd381718392ce2ca3f449e6e365c53bd",
+      "sha256_download": "36dc93f544a9ed1ded9a326c765795c2448d68b139d909a26cc8d6e2e31544f0",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0345.json"
+    },
+    "1_0352": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "a5bfed4b7643ed145820446c898fad020b4a8aba096a0c7b154729e460501d4f",
+      "sha256_download": "298f8736c1e97f0f1031465bf339295408a0152e34e03cf1487390faeed017cc",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0352.json"
+    },
+    "1_0354": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "1e4995c1f5ac68239a26b769e66b6e075c74af45b578c878e273fadb1c0e3bbd",
+      "sha256_download": "c7ecb0ad067a858a02a603558cddb33784bf683a4077cb239af0c000e54bff28",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0354.json"
+    },
+    "1_0356": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "773798a9e175f2c984e345634069dc3e90462f72fe4e193fd0dadf1d4a4c9eeb",
+      "sha256_download": "9d99c2bb0b2acd9d5e70103f14917f1d68921c6cbdae400c6765a61a9afb41e2",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0356.json"
+    },
+    "1_0358": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "f717fb6382928097be63bc8feb6fc2291b0e5ff71798816354d94a5b24085c14",
+      "sha256_download": "1a4d4d6efcb359df4d09c477332195b90f8cd385b8c93d803ce23d8d88a7a364",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0358.json"
+    },
+    "1_0360": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "d5a214cb3b40bece7dd518da2cffa945d64cbbb88e1897a8f9fb873f983a1e03",
+      "sha256_download": "43232e4d2496df54da82fbe52c9fa23416420cbd2fdec3adfb25b827da64b406",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0360.json"
+    },
+    "1_0363": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "ae2bf5acf853bb04424389067e8ca282a09fd705c50914fefb539192cd2b0620",
+      "sha256_download": "402c8d4b952cbdb436cd2ef2f5ff69cd8953a9c84c4d21c73d22719c46c61f3d",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0363.json"
+    },
+    "1_0365": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "b4527ba6d4f273757a4ecb9b9a7fc406527bad81c4ada692c2c6f421831413db",
+      "sha256_download": "75d6321f059c4583c8133a70a4066f182554cfe4c164faaaa427b69a68896d8c",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0365.json"
+    },
+    "1_0368": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "1c22df62a6954381969bea0efa17f7b1369145ead1bfd85b91f96ece13aa6207",
+      "sha256_download": "f7bcfed55e852705dcc510e3cdf15be0c65675ff3466fde973a5aba16c078dca",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0368.json"
+    },
+    "1_0370": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "6568524bdaf02720b7c20733eee0f02bd940b8e7778e3ea7e106298ceff9e9f5",
+      "sha256_download": "55bc80f52f220c4591334fe00046ae96066bcdcc006b9257ef8995a3fa0e2a6e",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0370.json"
+    },
+    "1_0373": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "880d81e0794e2004857c39bb1843e2e82c8e75810c5acff5cb29b3c1ebb9c988",
+      "sha256_download": "e14fbeca41b1f722716445b8b5089525bfe3439542052217f39bc96400433edb",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0373.json"
+    },
+    "1_0375": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "f6c98e7184aad5825b4cf90f3e385b50c234ae1699e64651976a4183dfeca8a4",
+      "sha256_download": "9bb6aae2e1e35d9b814ea03f07abb69da33cc45b55b36df358a20730fd3eab22",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0375.json"
+    },
+    "1_0377": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "6c3e9d2aa384d1a5b85d0c713a4a5e5aa13cf5cf5b62a208162b878b2598e884",
+      "sha256_download": "6550ed012300783d963dabaaf3050b7a8dcc9b052349654960a8801737219709",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0377.json"
+    },
+    "1_0379": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "f666e47c69207fcbba288cbf890184227b6f7bb3b7dc8efc68e8f638c0259a0f",
+      "sha256_download": "6e429382d5089451c962b9ab9f7e3b9d5756876d1f8c891cd83542f0510e4230",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0379.json"
+    },
+    "1_0385": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "3ed992505fd6527407eda3d8d6dfd45e2f13ef4a321bd953ee151112d7388245",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/1_0385.json"
+    },
+    "1_0387": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "d0f428c4fd393c9233ce3f1d6478d41bc655330e4837ade7939bd74a238b6d8d",
+      "sha256_download": "e5e7b5fdcfe6977d9474148ad20dd2563945b9dca8152e2b7160c830de36a949",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0387.json"
+    },
+    "1_0389": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "240c3e03b8b7b9e1e3bda0c22f9988b071959da95ec7c568e70fb235a4e03294",
+      "sha256_download": "08edd3db65ba0ba905d87a273b54401497cc1abb5be28d06c6a19c2101b47f99",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0389.json"
+    },
+    "1_0391": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "5d84bf39a1fed557f433ff2531948b43dfe80d496db4ee0c246957fd64471e01",
+      "sha256_download": "dda502dcc73b53f32e02fd6cd213387b9eda007d46a9ffca5d337b37138157ed",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0391.json"
+    },
+    "1_0393": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "c23b2c26a6745f7a3e37b09be3ce0c055c7887bf8f973442ff70ff4f717e29c3",
+      "sha256_download": "dcba25a36df0ea363c1ccd76b2fe2b6897350dbf04690ffa34824d39ee43f008",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0393.json"
+    },
+    "1_0395": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "bea0545c817d5d3e164e158651dfb7ae6ba1675270962be53812339ff44073e7",
+      "sha256_download": "ddda3134096c820644822b71f30ed5b8dd43628e7c19aeca627169b439fc5b1e",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0395.json"
+    },
+    "1_0976": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "89233eda387c21cbf4acb4637dd9d0efaf8acdf01bbbcd2050dd86182cb7d75f",
+      "sha256_download": "d207c41436ad8fe6d2d14c0acd777fafb048829cfc55dcc473e933ceb90c3352",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0976.json"
+    },
+    "1_0978": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "502286f2bc817906013b87a3c9dee822574e361a5bce422f3181a39a7286c486",
+      "sha256_download": "ee5592daecf4cfb3df52ab8b3272292e392ab2c2f51ab225d47a375ff3eb41f0",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0978.json"
+    },
+    "1_0981": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "9c690bcda61f04a07e14b37c6ed632b00eb54ff05e79467633b23f911810e4ca",
+      "sha256_download": "126e826a3464bbada8dc654abc53e0998d2cbe63ec82ebe8b4144528693e2775",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0981.json"
+    },
+    "1_0983": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "a529137885c643a1f453c9e96b228b3c99cc2655cef02c9787d6faca51c562e5",
+      "sha256_download": "397e1596ebc84a2aa4ffb06d804e53a0fd6c6a680822477e39ec38c2f8e4b80b",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0983.json"
+    },
+    "1_0985": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "a3285ecdbbb0e141b88e9367eaca53c133385c848f8aeebb0014ad5dfbbf9254",
+      "sha256_download": "35dc560893c9b2e732cd1a0e0545d5a4a7dbdf5c154aa9520f622a32b22cd870",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0985.json"
+    },
+    "1_0987": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "0ca5200fe78005c33e3d746f7395e59026b16469f436c00570a763c346bad125",
+      "sha256_download": "847eb0cbb6ffc190bdd0de39de89af1957b1a5041e0c8a0121c89d80954ef0bd",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_0987.json"
+    },
+    "1_5775": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "5dd2244320aaeb0afc3730a53dd4fb068c1f6636f147a08bab72c14855ac9e73",
+      "sha256_download": "b7c49ebabaab57120c594c71ac31462ea02556ebfdb4e5f87a1d6e70b4971da8",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_5775.json"
+    },
+    "1_5777": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "671ff5d29e08583a95fa69810559048ccc64e654c9768962d22a738248644ba0",
+      "sha256_download": "1da1ecc1eb09e0986bbce3bfc152e9c15c1130616af613e1e76d449d9c6ee94d",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_5777.json"
+    },
+    "1_5779": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "51ece69c0e5a7d7e80db2e2f40556bf7f2bbd46014cb213251ccc2a5854114aa",
+      "sha256_download": "9e0b8ab08587974a84d291aae377efebbfadf6b1d8a7200914aa0d9436d32e33",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_5779.json"
+    },
+    "1_5781": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "63e4f8508cebad817d8541b2c6d0ee308b2221d3c322debc7724ce92b06bab90",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/1_5781.json"
+    },
+    "1_5783": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "e1750f23df742fb285dd095fa7f1ca4eb20b70b7f40188312a5c10685e1aa91c",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/1_5783.json"
+    },
+    "1_5785": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "ba894fcb74ccba828c36a436b737f3fa205d4ee6ddca5708b3c392d56dbc78c0",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/1_5785.json"
+    },
+    "1_5787": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "595cf0d9ef3cfa2edab66cb93d469996f57367c0fb6cc537a5ebfc90aa97861a",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/1_5787.json"
+    },
+    "1_5845": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "4d9697ec60f09d478664232bff0d0b01656ce51531f839ed3bee1518505497a0",
+      "sha256_download": "ca868c960a727b1ce232d2398a8b35b82ee765d82d31317ca9ccb853ebb2d17d",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_5845.json"
+    },
+    "1_5846": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "aa5dd380f4cc93b7924edf7a3cc7b9f9a66b2ff2bba9d53612a41b7a98117eac",
+      "sha256_download": "bbaeac2c779874a0c9ca7b95b323fe346e7afe7e8f75a3f44c00f1839fe0dad0",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_5846.json"
+    },
+    "1_5848": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "7445e535f18a6ba57e9e95af2a3c8e2cbfe16063e3c891652ec17b5784f492b1",
+      "sha256_download": "d34db9272b885bc94393bb8d0a4e666b4ddf333977e5c7caad94e0aa44e3ed72",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_5848.json"
+    },
+    "1_5850": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "0c6e4bc5283e1420142beb4553d318a8b843d092e2929ed1e79836858efaa5fd",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/1_5850.json"
+    },
+    "1_5852": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "6cdabc5071f38a5fea04bc0762b9bf02722291a2075f536f395127122999f96d",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/1_5852.json"
+    },
+    "1_5854": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "4d9a878980ef14174be1a7da0a71a38a423afce52e0b3528305b7bc7b3fac65b",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/1_5854.json"
+    },
+    "1_5858": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "736a1ff229b44c47c5dddd0274eae61499dcf163fc0ac1c78e35d051479c4843",
+      "sha256_download": "abdf85ed03624318823b7645fab7d91a3cfb57a2c31caac8af8f773da297c072",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_5858.json"
+    },
+    "1_5860": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "006046b6d33db3547d4d1b94ab4eb6074681ef36ec55c61c673b520b02a6b380",
+      "sha256_download": "3cfdd58d6767c16e72ec1e3a7345234f3f647d42c2e0dd3856203f4265bf207f",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_5860.json"
+    },
+    "1_5862": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "27c74fe1f05b4f2dd6f4cb785247acda591bb84c15a9689442d962741c35969b",
+      "sha256_download": "ad750970642b804a476c559cd760a18a1fb817ae907e79edfd5211fced606ef4",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_5862.json"
+    },
+    "1_5864": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "61ccdde1a4258ac928755aa2408c411ff82381d73b1c60b7ee9539bf09fc5a75",
+      "sha256_download": "da5c0f532ece6369b8ae83c08d36deff1e11a0718b66be32dbb13d12a7d36d4d",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_5864.json"
+    },
+    "1_5866": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "cb36765b6254189622838aed34d5f942aea61aead3d04dfb53f3495df5b5e3f2",
+      "sha256_download": "33a973610f8aa6fef2c11ada5d81d21ebad8c1a05e4f1a336b15aa1c5b48f6c7",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_5866.json"
+    },
+    "1_5868": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "cb942984966a45c106678749bf38a1037eb0cca6e20bd90b3a0063ed91006db4",
+      "sha256_download": "fc8c39ed882b4a84d27b4dea770234cf980a90552371b047bd2f9341270fbb96",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_5868.json"
+    },
+    "1_5870": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "ad43ef9be6da40b2e4c6c98c47176208ba1bce4b5bcef5e477a7899ab4e357bd",
+      "sha256_download": "dee732b0e0a6f0ffc9cf5bd3618ec424d6a559b9ea2c981950cfc03bd6422526",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_5870.json"
+    },
+    "1_5872": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "e5bb22ba2dac32deeeda204281283c969596376529941671585264a8b55aa3d0",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/1_5872.json"
+    },
+    "1_5874": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "7d40b8d2bfa530c4b5552c2fa9882a02d4884533afe8bb07be9c90d14517e7ca",
+      "sha256_download": "f1696974b3562048fe69b5f50514dee38e60998ebf731c5bf48bc8dc33a63702",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_5874.json"
+    },
+    "1_5876": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "6901a6d506297258291d1306845f0c22f45a31d7fff6d721e39e2bc6d31e369e",
+      "sha256_download": "d6aa3a61e82a03049c1881ed1abcbf14d0ab01178b39ce4fd73ecaa40944d485",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_5876.json"
+    },
+    "1_5878": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "78ed6031b56127642a67caa4ded64572c12fe49c25f45173acfff1f9310e5310",
+      "sha256_download": "04dcbbbe8d05a95a143e8bea4ca44aae1920fbf5861d3a1e4a5a35751e255705",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_5878.json"
+    },
+    "1_5880": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "6c60264b1214104378f99d0db257071bd31144073d399dfcbe7513c9b883d82e",
+      "sha256_download": "8a9fd1869808a5017aea4e930790f72a98328a776f0be89dd3d1da2f0318ce88",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_5880.json"
+    },
+    "1_5882": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "6626683c7c2fc11825013d4e0734d7e45182d0f07d603234125e2c342ecf79dd",
+      "sha256_download": "b509585a2e49a143e3e330cfc3c5c51dcee1958a9b0ac32f42c9fec317a0d98a",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_5882.json"
+    },
+    "1_5884": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "f6591b9e0ff2edb9eaeee2ef4e63a1f9020f71b067092da3b02032f9f83fcb39",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/1_5884.json"
+    },
+    "1_5886": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "1937aa690d543c4124667f9133da32a4e4e327ea36f77ba10b1c5c27cf0b91f0",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/1_5886.json"
+    },
+    "1_5888": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "d33703b6e92b8b737978d922195cb2a939a32c0a46e6434108621c9eba8662ae",
+      "sha256_download": "4ede7303670cdbea99f83579bf1a76193761c120ea1b10c1fb7d716de8899eaf",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_5888.json"
+    },
+    "1_5892": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "9b9ed518082a18b882b5d5fa73419fa9fdb239521e2c5d03f2a7cfbcafd2543d",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/1_5892.json"
+    },
+    "1_5894": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "64c6e4afe07a361ff8af07436dac731f9bb67f62d082d09f2b3a0970f057d439",
+      "sha256_download": "3c6f3c0f9077a2448cd22181ab3cf60ae6ead2c944eb5fc0c0c9847d624871ba",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_5894.json"
+    },
+    "1_5896": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "08f26c6dcf8d03760aff42c6c0239b967812e87bb8f3602a8ce8f818de7ffa8d",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/1_5896.json"
+    },
+    "1_5899": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "83adeb6b68624909d661076847adaf4a99362850429e6b8a53840cf8e602ca94",
+      "sha256_download": "c157d8adfbf5370a4cb22bb42282f690d90f788d79bba6ff78266b6a27ba5c4e",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_5899.json"
+    },
+    "1_5901": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "054129923d741b6b4229cb4dd63142dd120fb1287370b01688c1fbbbc61af7a8",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/1_5901.json"
+    },
+    "1_5905": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "4581f0eb4210a1481dcf7b70b1c0b3f091455f1f424e68a4f98a82ef2709c9b6",
+      "sha256_download": "75c8b6b210599ec91eb23c9e7b5b9b6ffed115f829d12b6bf52ef25c58aaf720",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_5905.json"
+    },
+    "1_5907": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "eb839227f0fce898b6cfa7687f4399faf1e19a963cac24fe03d829ea46fcbf7a",
+      "sha256_download": "6a649ce076d781c03356a12c99d449191a772e5fff692a10ba00dc6458402b3c",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_5907.json"
+    },
+    "1_5909": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "551a432b50315ba989ed459ebc2c67fcae35a0d276d8f88acde043452c844a87",
+      "sha256_download": "3b83300e83eb527d85650f56d3859f61b7948d453489b85d93c6b71cd16f555b",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_5909.json"
+    },
+    "1_5911": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "046ab021ff83eb056ffa102fb9bb2117024463235b716dd86eb318c84e9a28bf",
+      "sha256_download": "c9bc204f853c9068b87dd408f9a1c4ee9909120489c29c1342001d705bccf18b",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_5911.json"
+    },
+    "1_5913": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "c974eb7d64f0ef607bbf896786e91b91523890b5f35ba08fc03e118108595e96",
+      "sha256_download": "8723ed47cc51926c226d4751ac30b54cbb08b815beeab38b5a32593f64cc0ed9",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_5913.json"
+    },
+    "1_5915": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "be85799aa7a999e687e201d5bfd4f87889928e9942daa771320a91ae439d1ddb",
+      "sha256_download": "59cd6e6247907aed93f636f2e20e040d324d7d92e20ce04db93b74372656f66e",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_5915.json"
+    },
+    "1_5917": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "eb039b7f97da62d9ffca58956b4ed9bc1be3c43d66b8050c2962e46606da13a1",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/1_5917.json"
+    },
+    "1_5928": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "df8b9b394a22223ff61b75854a496a28fede7846df80e7ce7bba4150befee306",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/1_5928.json"
+    },
+    "1_6000": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "2521959c927ad6d52f034c1abd320ae61a2f6adeed8e9e43cc1b15abb60b13f9",
+      "sha256_download": "ed79e0c5097fec644f1641cbc95f4d4d09df3a86e3d5bd66712a04c42b22176d",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_6000.json"
+    },
+    "1_6003": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "2295cc9a1fc3bd129cc5473de690dc0de7bfbfe6979518d837a8957c0a68001e",
+      "sha256_download": "490284c881ed0c134f2db60e18acd0caf054f9bffb3b8cf3168d8c8bb6d4de22",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/1_6003.json"
+    },
+    "2_0417": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "8a57b139be30752226401a18663260d9d0a25962b88e01cf15005385578434eb",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/2_0417.json"
+    },
+    "2_0422": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "bbd0317485365c1ec43cee511b5a9053f7d2f263e8b8f1d3351e7eb32efccde9",
+      "sha256_download": "54a5050da08b576c7ffc83edc7d5b8df4c885dc0f26766ac10c0ffbd0a5fdb3f",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/2_0422.json"
+    },
+    "2_0459": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "335b4d548ff922df1c0e1cbc5689788675627dc86fccf3f2e8e1c65fe1e7f74d",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/2_0459.json"
+    },
+    "2_0464": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "288c0247754ec4b382401c97f64b0764d878dd06fffd179fe684d3a4152ef0a7",
+      "sha256_download": "d5b387980ada7f590176b25d855f7a7df0d2a9950c3f71fad2cb7320b5ba1d11",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/2_0464.json"
+    },
+    "2_0465": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "77e590533c94686ff39ec6d0955269b2b396bef547ba61ec2b85c47c96470869",
+      "sha256_download": "1522ef8adbff73d36e9e1beeb3f9b7882ea9225162127b138356c5039ddd2455",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/2_0465.json"
+    },
+    "2_0466": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "2bad36b2802b1000e4be37a43d8a7dbd85bb1fef3dc8e4edce9a60f2acf43421",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/2_0466.json"
+    },
+    "2_0467": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "1b9218c6a9f130733d4949a933e3d1a7ca7ba832d2f3ff34e50282b0c7b84241",
+      "sha256_download": "c1979d46e176c3f31485e4407ba9b0115bec74920fa403d24c056c98cfc3952c",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/2_0467.json"
+    },
+    "2_0527": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "2405a9ed687077268eb85396d5e0cf0f43f772cbb66972afba4d5834c0ee4c53",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/2_0527.json"
+    },
+    "2_2787": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "b0426e1c26dd57a650d93194dcaa71a23e1f903996482417c26302c4026f092b",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/2_2787.json"
+    },
+    "2_2789": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "68bb280455ad06a65b4ea2db35e1941959a17c889f50dd885a265ab45807f372",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/2_2789.json"
+    },
+    "2_2797": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "ab2b4912092522d31add3fcecf57832b1a219b36aac26f119a021e9d0a06d5f5",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/2_2797.json"
+    },
+    "2_2799": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "e51cc71a1ce124e81cffff5a8b2fb3c7aec00fd28c1d670fba664ecea9b2e001",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/2_2799.json"
+    },
+    "2_2801": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "c54726e024f196e349663c58d91b7b9ce2a84941a6e83b54159e8fc3c97ba9e4",
+      "sha256_download": "52dd6b5d33436b314920dd1a0de4a0daf4db4c81d8112efd50ba4d300ec14eee",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/2_2801.json"
+    },
+    "2_2803": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "fadc818a6ba08e5e3ad3f7fd2ec69c45f5fa56803f37070e4c46db8f4997f8db",
+      "sha256_download": "46cf29cbaad1a230e20cf08196c96c88ca4e09c9d3ea4e3556dc29e4c8c172fe",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/2_2803.json"
+    },
+    "2_2809": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "055b757c539264b82fdf148196d3b32b374c1929b80053517d0c900f85564ba3",
+      "sha256_download": "a0b5db4c0da7144973817c2f1c18df65510d653330eaf1ccddf5e092d98cad36",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/2_2809.json"
+    },
+    "2_2812": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "f63cf8de70f034c8eb228f9e759c12bae5fbdb2480d3fbfb507053f9488101ac",
+      "sha256_download": "b75b0ec02960b9d652066cc252fe766abb370fda1836ca4e63e81f8cc56a77cf",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/2_2812.json"
+    },
+    "2_2814": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "fc6845711362cbd30f766538a46fe8c6acd17048e42227c2e3a64ddfe8dde61c",
+      "sha256_download": "9b887abc310be1dee5c4e31bc156a3b27deedf0eeec5a30edc58756ad6137f25",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/2_2814.json"
+    },
+    "2_2816": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "a6a94afa1d6cc4c4fac064e8dc495f802fcb91b3da42c169d138cc0ebb9ba937",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/2_2816.json"
+    },
+    "2_2818": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "1dc75eb5cb553b9d49d07d26887efbb5e2bd987ce74c1655b7b1b1aa19ff3236",
+      "sha256_download": "6cd03de88fe906d7d9e2aac33dd73fc3c75070e82e19024bd02337a7485aaacb",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/2_2818.json"
+    },
+    "2_2822": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "509d97c156dd645a94ad4e0199d51a837c171fff897d30aa2c3e2e01d71e98b7",
+      "sha256_download": "80cf06e1c212ca4918c266498a115e35485ec230332f398aa7686f306d927656",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/2_2822.json"
+    },
+    "2_2824": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "885824b5f594487d24e3f7aaa26f436368376e041fe88cfae0320ea5223a4d83",
+      "sha256_download": "b8f9c6df4c1955bd07fb15f68554b0c4171c92fdc0440cca29b365531799d51e",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/2_2824.json"
+    },
+    "2_2827": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "beeb9cf09478a6f37c1045f99c1c39a2edf82f9637462e9376cc43e288493a61",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/2_2827.json"
+    },
+    "2_2829": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "3ec3277a43426ab7a9e7d2427931dd29f8fbc4742107d37b98e73d1d2835565f",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/2_2829.json"
+    },
+    "2_2831": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "2cd73ec4fb3cd26ba6808e27cd9bbdb650014e6ad2dddd39580f3c3550e1bd56",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/2_2831.json"
+    },
+    "2_2836": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "dce89939c1f2869cb11f02dea75cd0199b0c416c9f3767ee164ffe65134162c3",
+      "sha256_download": "e5d708516005dfb3ce16b80b366f4057d7c287c324272c90b1097a5c2da2af44",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/2_2836.json"
+    },
+    "2_2838": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "08a3b6524f8ff96f8274bb0e87770dc6431cad569f3d43be8010b0176e78a24f",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/2_2838.json"
+    },
+    "2_2840": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "8ac54940ccacda3f336a7333478a57a951004441eb676c9487189b7abf49c267",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/2_2840.json"
+    },
+    "2_2842": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "32820bbf752e67cb9d491d0d613de27c45a41752cbc5a358a1e742bb0d914d5a",
+      "sha256_download": "df36730acc881dc13b186973719593c4261f3a86627974b73fb58b803274508b",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/2_2842.json"
+    },
+    "2_2846": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "678e229dd995faa4a356e4503994aa3ce501f3847e30a74997dd15c96fe49dc2",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/2_2846.json"
+    },
+    "2_2848": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "73d94072685e92ca8e1a8261d05d6a07b73a64125871de41fee91e87907b7eb9",
+      "sha256_download": "4332150ada59ec81995d651cd84641047cd1f119de8c753dfefe3328fcb929ce",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/2_2848.json"
+    },
+    "2_2850": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "9c839ef3d9e14e4456c34533d4e6cedb22dd9670a3f16a1eeeebcf902324f56c",
+      "sha256_download": "e2ea8cd33b730ee33ec6e640d4b9d8ccbdcd4edbdb7c590c05e7671a37ced58c",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/2_2850.json"
+    },
+    "2_2852": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "60f697b5dc8d0bf67271c681f7b0ed2370f4164385fe46dc08e967a01248b4a1",
+      "sha256_download": "0c30b86d1d45b0768503874dcdf1e6f1432265666c1fd20b37b327cb4588e652",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/2_2852.json"
+    },
+    "2_2854": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "266beb33b10c4a75d46e665bcb95f37ebe88b7691cff86d8fe82630c7427d851",
+      "sha256_download": "269a030eaddf93a5370e9b70e8bbe23af02cf4ad95b69a3fb2ce559b5adf3c5b",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/2_2854.json"
+    },
+    "2_2859": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "1dd6ecaaf5fc35fb3a00a01a5839fb827240bf103aef593f7f9cdf67f22fe5f0",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/2_2859.json"
+    },
+    "2_2860": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "342007733c6ac9802e0c73ef1392646698470ae3d1bdd6c40e8634721ee90941",
+      "sha256_download": "683e6aa52e40207a2712f54a31454bb5fcd0c25e4e3b86af350822ab22a7e332",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/2_2860.json"
+    },
+    "2_2863": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "8b20c9d80bd03b040a9efbb300267d6e10ab8a07a00b440c17d2dccc2bef3754",
+      "sha256_download": "f0206191145f92a50ee5073e57a8c3a1f098a0a1370a1ea715570dda7a0512c3",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/2_2863.json"
+    },
+    "2_2864": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "5dd933511a3145baff2882443092805fd0276061cb057892fcd680e9b7a822c2",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/2_2864.json"
+    },
+    "2_2867": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "12106c901bf7e96c451bdaf723c07388929e5144e0ea15e71be4a57e17fc6248",
+      "sha256_download": "da6a537f6b6b832947d08347538ac56c1ff9fcc091d84f508492b3b1beb6fe07",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/2_2867.json"
+    },
+    "2_2869": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "8aaf4e7964a3467b5912f0228b0879a5e698aa2d8b167c56815b11c187b78dbd",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/2_2869.json"
+    },
+    "2_2871": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "5be1a07c35cd42b4bbf60206ef377650fdac7e826b0f5350292ea80710274198",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/2_2871.json"
+    },
+    "2_2873": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "f75675b8c328aae56a1df66f694cf6d3bfe55d6f3850cc44f4a7c21ce14bf0b9",
+      "sha256_download": "34487af3fd40600e937cef9a44d24582c7d90d60969d639254d8219a940f4a9e",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/2_2873.json"
+    },
+    "2_2875": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "137c8ee0ab3c7dfadf0cb8283f559d9290218fc1c7edef3b019ccdf83d319916",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/2_2875.json"
+    },
+    "2_2878": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "767c5ae4b537540ecec5b823825964487ea5a2be08a163f702a0605847272a4c",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/2_2878.json"
+    },
+    "2_2880": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "8b2aa9a7c0b8c11ccfa2fe9fa21b8200c5b9b4778b5f335e7f1c69a68d54eded",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/2_2880.json"
+    },
+    "2_2888": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "46ed136791678dc533499dfe0b4788c6a0a9e31d15ae69f79abd76dce4ac4c7e",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/2_2888.json"
+    },
+    "2_2890": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "c69d71f7584cce7002156e57d8f76c3ee13a07fbb533334e8bebdda0a153f51e",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/2_2890.json"
+    },
+    "2_2900": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "69f14e716798b01a622ef76fe3d8dd1a7640d572a914496b2bae5341d5bf61dd",
+      "sha256_download": "886761de4b88cc674dfb3d1a82053e1a15a86a8519378427e3fe1adb7260f925",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/2_2900.json"
+    },
+    "2_2902": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "32fb8cd67b6699b4df92118001758f865e34f49fd60e756845961d7c869094d4",
+      "sha256_download": "bd1094e841c8ac6acf8658605a1ac0784a57108d97c3adf2182383f224a1b3b0",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/2_2902.json"
+    },
+    "2_2904": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "06379c7bf4bfa7d219c23e21eac37e7cc807c28bc7b633763aeb472cbd7cc7a5",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/2_2904.json"
+    },
+    "2_2913": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "a64a1d5de097cf07ae5ec6a3d21712b3b61c360e3d59b20f30b940cbc1ecdc4e",
+      "sha256_download": "606c9a890af7d9c8eac78c9384b6fb492f35a94ee98e3c49ee6c1d0ad23e03aa",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/2_2913.json"
+    },
+    "2_2915": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "8f0371d59b830b1b56e87ba53b50d9e849ee43ea8c6d450da714b8cbb0e33197",
+      "sha256_download": "04283f4b292e5a25325b427e3e2a741b6b884030ff57c96b47759f88824d0a98",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/2_2915.json"
+    },
+    "2_2917": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "f9433a3b044c0868c2dd061c58972fab609ba9c260627a2806eff7f59db8cdda",
+      "sha256_download": "274faa12ad9b3b2285a26eda68dc544062d478b7d6a6b2490f2819e437b68793",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/2_2917.json"
+    },
+    "2_2922": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "4ea17b463cb9aaa26605cc423879f621e644f6921b6dbb587379405321368163",
+      "sha256_download": "f5700753919cbf1bcb97d08b2e26693036d29b2d473121353ebb668edcc2fd86",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/2_2922.json"
+    },
+    "2_2924": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "727437c7150abe3a479b024870c40bacd06bfe9fc253585118960828dd6c5c18",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/2_2924.json"
+    },
+    "2_2926": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "7aca4f3232d63b74901f18c2793de4dd620baadd12a8ca05a4caacdc258c3598",
+      "sha256_download": "22c9640c0fcec048a24498a17d28f63886bc936e915e2bb98720b18be9ff684f",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/2_2926.json"
+    },
+    "2_2928": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "5e2a84b130bec39d002ed748fc1337ed69d1389196f20df3d9aa02b6b38dd21f",
+      "sha256_download": "de834cc3f62a095a40abe259aacf3f547fa5be620b6553fb3c21e277ac196f1b",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/2_2928.json"
+    },
+    "2_2930": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "4f542712d6b2ca92e6c9a472f2b38fc31758926c820758d9b41cdc9a1685fac5",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/2_2930.json"
+    },
+    "2_2932": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "e63ee4ecbe383c6ad0c9d963dfcf6b331a22f331fe732fe1a6ea8184cb7f00f6",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/2_2932.json"
+    },
+    "2_2934": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "0054353870ef0f6e3a48e15f2a7f14569b20993add85de98f4f92fbf68ad1d12",
+      "sha256_download": null,
+      "identity_control": "association_par_id_fournie_par_utilisateur",
+      "result_json_name": "resultats/2_2934.json"
+    },
+    "2_2936": {
+      "source_status": "ok",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "bird-vision-v1",
+      "fingerprint": "93e64980d84516207aa35bcf61710a1a0049e1c1e997c61c3b71b129c12d1e97",
+      "sha256_download": "733d7812f5fd42af260930bc19de119b0e05a7522d1cfde16d1974ac9ebe202b",
+      "identity_control": "retenu_par_IA_non_verifie_humain",
+      "result_json_name": "resultats/2_2936.json"
+    }
+  }
+}

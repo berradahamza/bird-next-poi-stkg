@@ -1,0 +1,4 @@
+# Heterogeneous v2 verified with Python 3.12.14, numpy 2.3.5, torch 2.14.0+cpu.
+# The supplied legacy snapshot used torch 2.8.0+cpu. Dependency ranges unchanged.
+numpy>=1.24,<3
+torch>=2.4,<3

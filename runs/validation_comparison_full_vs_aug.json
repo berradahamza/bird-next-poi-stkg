@@ -1,0 +1,14 @@
+{
+  "fold": "validation",
+  "metric": "mrr",
+  "run_a": "STKG_CLL_POI/runs/full_seed2022",
+  "run_b": "STKG_CLL_POI/runs/full_augmentation_only_seed2022",
+  "visitor_count": 8,
+  "macro_mean_difference_a_minus_b": -0.010824608085684376,
+  "paired_visitor_bootstrap_95pct": [
+    -0.02232956810870925,
+    0.0020594182567621397
+  ],
+  "resamples": 10000,
+  "interpretation": "Exploratory if method was chosen using these visitors; CI not a substitute for independent validation"
+}

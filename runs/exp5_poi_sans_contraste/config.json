@@ -1,0 +1,39 @@
+{
+  "variant": "poi_only",
+  "architecture": "gru",
+  "seed": 2022,
+  "split_seed": 2022,
+  "hidden": 64,
+  "epochs": 30,
+  "patience": 5,
+  "batch_size": 64,
+  "max_history": 32,
+  "lr": 0.001,
+  "weight_decay": 5e-05,
+  "dropout": 0.2,
+  "edge_dropout": 0.1,
+  "sequence_contrast_weight": 0.0,
+  "graph_contrast_weight": 0.0,
+  "temperature": 0.2,
+  "augmentation": true,
+  "cluster_bootstrap_resamples": 1000,
+  "availability_mask": false,
+  "torch_version": "2.14.0+cpu",
+  "numpy_version": "2.2.6",
+  "processed_input_sha256": {
+    "trajectories_poi.json": "23a65831753ccc4a31b920332a95ea6e93e503c3d7f1b6aad232e4744267bf1e",
+    "artworks_semantics.json": "2a5774136148f21a1cb73273aa613608c61786af5eb70ecaedd16b472841fb43"
+  },
+  "test_selection_policy": "best epoch selected only by validation MRR; separate evaluate-test command after freezing configuration",
+  "graph_encoder": "heterogeneous_relational_mean_v1",
+  "gnn_layers": 2,
+  "room_features": true,
+  "midpoint": false,
+  "spatial_input_sha256": "37e576dbb6700081d66ba3352dd88f6df1f76f2f36b24f636e76827f837ee4df",
+  "run_input_sha256": {
+    "graph_train.json": "aef811981f13fd1e24d6c7f81e8d3eb499e980bb3aa0e4acf3d36aa57ae3d768",
+    "split.json": "48ad7557ac80a066097e7f40b224dc4e5c41762ef33f326ab9e453073f9cea06",
+    "feature_normalizer.json": "03b07a3c0f1b04f3f44c1cee6b760698a6a1f110768885b566e8cec91c83b91d",
+    "bird_adjacency.json": "37e576dbb6700081d66ba3352dd88f6df1f76f2f36b24f636e76827f837ee4df"
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "purpose": "Functional verification only; two epochs, not a model performance comparison",
+  "environment": {
+    "python": "3.12.14",
+    "torch": "2.14.0+cpu",
+    "numpy": "2.3.5",
+    "device": "CPU"
+  },
+  "tests": {
+    "command": "python -m unittest discover -s tests -v",
+    "passed": 25,
+    "failed": 0,
+    "log": "outputs/tests.log"
+  },
+  "spatial_validation": {
+    "rooms": 41,
+    "rooms_by_floor": {
+      "0": 16,
+      "1": 20,
+      "2": 5
+    },
+    "adjacency_pairs": 50,
+    "directed_adjacency_edges": 100,
+    "adjacency_types": {
+      "border": 48,
+      "door": 2
+    },
+    "rooms_without_neighbors": [],
+    "neighbor_count_distribution": {
+      "1": 8,
+      "2": 20,
+      "3": 6,
+      "4": 3,
+      "5": 2,
+      "6": 2
+    },
+    "cross_floor_edges": [],
+    "connected_components": [
+      [
+        "Room_0",
+        "Room_1",
+        "Room_10",
+        "Room_11",
+        "Room_12",
+        "Room_13",
+        "Room_14",
+        "Room_15",
+        "Room_2",
+        "Room_3",
+        "Room_4",
+        "Room_5",
+        "Room_6",
+        "Room_7",
+        "Room_8",
+        "Room_9"
+      ],
+      [
+        "Room_16",
+        "Room_17",
+        "Room_18",
+        "Room_19",
+        "Room_20",
+        "Room_21",
+        "Room_22",
+        "Room_23",
+        "Room_24",
+        "Room_25",
+        "Room_26",
+        "Room_27",
+        "Room_28",
+        "Room_29",
+        "Room_30",
+        "Room_31",
+        "Room_32",
+        "Room_33",
+        "Room_34",
+        "Room_35"
+      ],
+      [
+        "Room_36",
+        "Room_37",
+        "Room_38",
+        "Room_39",
+        "Room_40"
+      ]
+    ],
+    "connected_component_count": 3,
+    "issues": [],
+    "issue_counts": {},
+    "invalid_room_references": 0,
+    "asymmetric_neighbor_declarations": 0,
+    "topology_policy": "reciprocal neighbors only; no inferred self/vertical edges",
+    "spatial_limit": "No path between distinct room components; behavioral POI transitions may still cross floors."
+  },
+  "graph": {
+    "nodes": {
+      "POI": 359,
+      "ROOM": 41,
+      "SUBJECT": 9
+    },
+    "edges": {
+      "POI -> next_poi -> POI": 2218,
+      "POI -> located_in -> ROOM": 359,
+      "ROOM -> contains -> POI": 359,
+      "POI -> has_main_subject -> SUBJECT": 357,
+      "SUBJECT -> main_subject_of -> POI": 357,
+      "POI -> has_secondary_subject -> SUBJECT": 776,
+      "SUBJECT -> secondary_subject_of -> POI": 776,
+      "ROOM -> adjacent_border -> ROOM": 96,
+      "ROOM -> adjacent_door -> ROOM": 4
+    },
+    "parameters": 127301
+  },
+  "smoke": {
+    "run": "runs/hetero_smoke_seed2022",
+    "epochs": 2,
+    "hidden": 64,
+    "history": 32,
+    "seed": 2022,
+    "split_seed": 2022,
+    "bootstrap_resamples": 50,
+    "selected_epoch": 2,
+    "n_examples": {
+      "train": 5082,
+      "validation": 988,
+      "test": 1083
+    },
+    "training_command": "python -m stkg_cll_poi train --variant poi_room_subject --epochs 2 --seed 2022 --split-seed 2022 --hidden 64 --history 32 --bootstrap 50 --output runs/hetero_smoke_seed2022",
+    "test_command": "python -m stkg_cll_poi evaluate-test --run-dir runs/hetero_smoke_seed2022 --bootstrap 50",
+    "validation": {
+      "examples": 988,
+      "acc1": 0.11336032388663968,
+      "hit5": 0.5445344129554656,
+      "hit10": 0.7773279352226721,
+      "mrr": 0.30101736271612645
+    },
+    "test": {
+      "examples": 1083,
+      "acc1": 0.11080332409972299,
+      "hit5": 0.5420129270544783,
+      "hit10": 0.7774699907663897,
+      "mrr": 0.3009637973924837
+    },
+    "train_checkpoint_reload_test_prediction": "passed"
+  },
+  "legacy_checkpoint_prediction": {
+    "status": "passed",
+    "run": "runs/full_seed2022",
+    "output": "outputs/legacy_prediction.json"
+  },
+  "all_five_ablation_forward_and_backward": "passed; verified in unit tests",
+  "full_multiseed_ablation_training": "not_run; script and exact commands provided",
+  "canonical_files_byte_identical_to_input": [
+    "trajectories_poi.json",
+    "artworks_semantics.json",
+    "split.json",
+    "graph_train.json"
+  ],
+  "canonical_audit_change": "Regeneration adds reasons for three unpaired ends using the already supplied preprocessing code; no observation changes",
+  "catalog_plan_conflict": {
+    "poi_id": "1_5892",
+    "room_id": "Room_2",
+    "catalog_floor": 1,
+    "spatial_room_floor": 0,
+    "policy": "keep original room_id; use spatial ROOM features; warning and diagnostic"
+  },
+  "smoke_test_scores_are_not_evidence_of_improvement": true
+}

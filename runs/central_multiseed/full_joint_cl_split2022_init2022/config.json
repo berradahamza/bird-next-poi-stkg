@@ -1,0 +1,28 @@
+{
+  "variant": "full",
+  "architecture": "gru",
+  "seed": 2022,
+  "split_seed": 2022,
+  "hidden": 64,
+  "epochs": 30,
+  "patience": 5,
+  "batch_size": 64,
+  "max_history": 32,
+  "lr": 0.001,
+  "weight_decay": 5e-05,
+  "dropout": 0.2,
+  "edge_dropout": 0.1,
+  "sequence_contrast_weight": 0.05,
+  "graph_contrast_weight": 0.02,
+  "temperature": 0.2,
+  "augmentation": true,
+  "cluster_bootstrap_resamples": 0,
+  "availability_mask": false,
+  "torch_version": "2.8.0+cpu",
+  "numpy_version": "2.3.5",
+  "processed_input_sha256": {
+    "trajectories_poi.json": "23a65831753ccc4a31b920332a95ea6e93e503c3d7f1b6aad232e4744267bf1e",
+    "artworks_semantics.json": "2a5774136148f21a1cb73273aa613608c61786af5eb70ecaedd16b472841fb43"
+  },
+  "test_selection_policy": "best epoch selected only by validation MRR; separate evaluate-test command after freezing configuration"
+}

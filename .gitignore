@@ -1,0 +1,12 @@
+# Environnements et caches Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+
+# Système
+.DS_Store
+Thumbs.db
+desktop.ini

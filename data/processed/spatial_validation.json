@@ -1,0 +1,80 @@
+{
+  "rooms": 41,
+  "rooms_by_floor": {
+    "0": 16,
+    "1": 20,
+    "2": 5
+  },
+  "adjacency_pairs": 50,
+  "directed_adjacency_edges": 100,
+  "adjacency_types": {
+    "border": 48,
+    "door": 2
+  },
+  "rooms_without_neighbors": [],
+  "neighbor_count_distribution": {
+    "1": 8,
+    "2": 20,
+    "3": 6,
+    "4": 3,
+    "5": 2,
+    "6": 2
+  },
+  "cross_floor_edges": [],
+  "connected_components": [
+    [
+      "Room_0",
+      "Room_1",
+      "Room_10",
+      "Room_11",
+      "Room_12",
+      "Room_13",
+      "Room_14",
+      "Room_15",
+      "Room_2",
+      "Room_3",
+      "Room_4",
+      "Room_5",
+      "Room_6",
+      "Room_7",
+      "Room_8",
+      "Room_9"
+    ],
+    [
+      "Room_16",
+      "Room_17",
+      "Room_18",
+      "Room_19",
+      "Room_20",
+      "Room_21",
+      "Room_22",
+      "Room_23",
+      "Room_24",
+      "Room_25",
+      "Room_26",
+      "Room_27",
+      "Room_28",
+      "Room_29",
+      "Room_30",
+      "Room_31",
+      "Room_32",
+      "Room_33",
+      "Room_34",
+      "Room_35"
+    ],
+    [
+      "Room_36",
+      "Room_37",
+      "Room_38",
+      "Room_39",
+      "Room_40"
+    ]
+  ],
+  "connected_component_count": 3,
+  "issues": [],
+  "issue_counts": {},
+  "invalid_room_references": 0,
+  "asymmetric_neighbor_declarations": 0,
+  "topology_policy": "reciprocal neighbors only; no inferred self/vertical edges",
+  "spatial_limit": "No path between distinct room components; behavioral POI transitions may still cross floors."
+}

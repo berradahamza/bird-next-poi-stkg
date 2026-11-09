@@ -1,0 +1,258 @@
+{
+  "source_archive_sha256": "00a118cab1c047a02f2902ce25976d89c2a93f7418e976fcf04430fde7d0fe53",
+  "modified": 13,
+  "added": 30,
+  "removed": [],
+  "entries": [
+    {
+      "path": "README.md",
+      "status": "modified",
+      "before_sha256": "ff1eae675107477b4ad5448559b76dd006a82a3476a7621a6aec286cbe7f3e51",
+      "after_sha256": "def141a96749cb9c3cf2a51dcb854ef28a331e4d63f8cf01809bd0c008a77c74"
+    },
+    {
+      "path": "data/processed/data_audit.json",
+      "status": "modified",
+      "before_sha256": "72694981484f52ef59cd19f6c5fdefdb7f2b9c466f2f2bf7ef082f24dd8ee427",
+      "after_sha256": "b2b1cd6351ed939fda09f78142060c763747fe080310b923f6c29a501e8c7732"
+    },
+    {
+      "path": "data/processed/graph_summary.json",
+      "status": "added",
+      "before_sha256": null,
+      "after_sha256": "0f2ef2153280c863f126251d70cd89f80c3153100d3e98fc431baedfb1794667"
+    },
+    {
+      "path": "data/processed/heterogeneous_graph.json",
+      "status": "added",
+      "before_sha256": null,
+      "after_sha256": "d3ffcf3e9117b8d7fa120e7286e79b772136c1b5a833ce19b983aef89b0a1572"
+    },
+    {
+      "path": "data/processed/spatial_validation.json",
+      "status": "added",
+      "before_sha256": null,
+      "after_sha256": "ebb8dee8beb20c8c6514479825f00af8c6af270c1ab0da991707c770741f6b5a"
+    },
+    {
+      "path": "data/raw/bird_adjacency.json",
+      "status": "added",
+      "before_sha256": null,
+      "after_sha256": "37e576dbb6700081d66ba3352dd88f6df1f76f2f36b24f636e76827f837ee4df"
+    },
+    {
+      "path": "docs/HETEROGENEOUS.md",
+      "status": "added",
+      "before_sha256": null,
+      "after_sha256": "db30e0a91c487c73b62b38e4ace86355c5e05d53554d76777a72217c1b4b9d70"
+    },
+    {
+      "path": "docs/METHODS.md",
+      "status": "modified",
+      "before_sha256": "325bd9a6fa636b1bf6ad3ff195b6fa2517f6d66ceaa41338605d5db9e1c48fa9",
+      "after_sha256": "b3626265adf63c948f55aef156f53cf8cc9d5ea3f318980fb2b415c6cb3fcce3"
+    },
+    {
+      "path": "docs/MODEL_CARD.md",
+      "status": "modified",
+      "before_sha256": "db12b9f5e939802cbd4e48462c8646d01b5de568dc3792fd17cc1cca294f24f8",
+      "after_sha256": "091ee53ff2b5f7d36939c3ce1ae29de3b2f2f60e873345c21f2d2927d7aa3823"
+    },
+    {
+      "path": "docs/README_LEGACY.md",
+      "status": "added",
+      "before_sha256": null,
+      "after_sha256": "ff1eae675107477b4ad5448559b76dd006a82a3476a7621a6aec286cbe7f3e51"
+    },
+    {
+      "path": "docs/REPRODUCIBILITY.md",
+      "status": "modified",
+      "before_sha256": "9031f53c9941a16f11a22ada7cba6fd1be198f87b2af085ce3e70bd922a42177",
+      "after_sha256": "fe5045648e9c483d831af13a2bfc62e4aacb8261f19f4ce80f031263e84dd1c3"
+    },
+    {
+      "path": "docs/ROOMS_COMPARISON.md",
+      "status": "modified",
+      "before_sha256": "9cbe890bf01d375f8a7f88cc772d0cb3208193d61a5763f61aafdbdeffe5a08e",
+      "after_sha256": "d3096def2ca83fa260faaa0e0c718be0a8e8ce6d879fd48afc8457def8051de3"
+    },
+    {
+      "path": "outputs/legacy_prediction.json",
+      "status": "added",
+      "before_sha256": null,
+      "after_sha256": "e31b6dcc43900d5f11fd266fc3c67e8614ae29f4ee3ad82ea1c5b6dea9a998b5"
+    },
+    {
+      "path": "outputs/prepare.log",
+      "status": "added",
+      "before_sha256": null,
+      "after_sha256": "38278e81688a037c2efef2e2d6b4dee0c57ec140cd20324180ebd729b271b262"
+    },
+    {
+      "path": "outputs/smoke_prediction.json",
+      "status": "added",
+      "before_sha256": null,
+      "after_sha256": "8a00ba3a30a7180f50dae7f01c13a67dd4c5d241f321208a5809736b1547f018"
+    },
+    {
+      "path": "outputs/smoke_test.log",
+      "status": "added",
+      "before_sha256": null,
+      "after_sha256": "705f69c72a7bce31bb5ea54fc9b7dd5c168122987667dbcbc082013c7f5fca5d"
+    },
+    {
+      "path": "outputs/smoke_train.log",
+      "status": "added",
+      "before_sha256": null,
+      "after_sha256": "e9527d567be9222682caaeaf7c6a078fbd438a60d43d5ebb4686f88781f0d8c4"
+    },
+    {
+      "path": "outputs/tests.log",
+      "status": "added",
+      "before_sha256": null,
+      "after_sha256": "bfb199708eb11fcd308a9d4974363b78ff2fa3476dc0aaa74fbffe6938428411"
+    },
+    {
+      "path": "outputs/verification.json",
+      "status": "added",
+      "before_sha256": null,
+      "after_sha256": "c70b73d8fef226cc70a2e9aeb30dc59a9df3eab4cad04a2af7f947c0a3884c68"
+    },
+    {
+      "path": "pyproject.toml",
+      "status": "modified",
+      "before_sha256": "86cfd2d81785013190bd8f42f324ffd6576f5d37ec76ee355220aa835bd9dae1",
+      "after_sha256": "31b60c6fcec24e7ddd17c67e775ff87ea1750f74c4ca97b1564bcf7e985796ac"
+    },
+    {
+      "path": "requirements.txt",
+      "status": "modified",
+      "before_sha256": "feece2fd136960a9e68e34f230d7b1aad74f1622f195c7fe50588410b1b53561",
+      "after_sha256": "2568342b994b4dbc1e8b0bb810bfe0a761b32da2822035ce63d0f8b0dd6b5287"
+    },
+    {
+      "path": "runs/hetero_smoke_seed2022/bird_adjacency.json",
+      "status": "added",
+      "before_sha256": null,
+      "after_sha256": "37e576dbb6700081d66ba3352dd88f6df1f76f2f36b24f636e76827f837ee4df"
+    },
+    {
+      "path": "runs/hetero_smoke_seed2022/config.json",
+      "status": "added",
+      "before_sha256": null,
+      "after_sha256": "aba1ebd77c34d4be49564a07b4e4713584a58e84debd87f94ede7cd065685042"
+    },
+    {
+      "path": "runs/hetero_smoke_seed2022/feature_normalizer.json",
+      "status": "added",
+      "before_sha256": null,
+      "after_sha256": "9dcb5c18be0e0bf0f077456f9524090dd9ea4b5fe977b3ac05cc48aa573725bc"
+    },
+    {
+      "path": "runs/hetero_smoke_seed2022/graph_summary.json",
+      "status": "added",
+      "before_sha256": null,
+      "after_sha256": "ef2b3343ced3199a2d39051a8fe3b5e70645c80a3df3c8812cea201fbe44b8c4"
+    },
+    {
+      "path": "runs/hetero_smoke_seed2022/graph_train.json",
+      "status": "added",
+      "before_sha256": null,
+      "after_sha256": "d3ffcf3e9117b8d7fa120e7286e79b772136c1b5a833ce19b983aef89b0a1572"
+    },
+    {
+      "path": "runs/hetero_smoke_seed2022/metrics.json",
+      "status": "added",
+      "before_sha256": null,
+      "after_sha256": "5ea4c9aa2ab7fd9497f5d3ab2f208013c462fc618c88d09c833a711cc890bddd"
+    },
+    {
+      "path": "runs/hetero_smoke_seed2022/model.pt",
+      "status": "added",
+      "before_sha256": null,
+      "after_sha256": "de8c852b62f25b9e00fe0ea779bc0f1e0eefc163b5b0896319ebbbaf9cf14406"
+    },
+    {
+      "path": "runs/hetero_smoke_seed2022/split.json",
+      "status": "added",
+      "before_sha256": null,
+      "after_sha256": "15fe9726ec34d70f76d24a5469f7a43cbdc41fb8903a85d1adbffed9ca1f1c9d"
+    },
+    {
+      "path": "runs/hetero_smoke_seed2022/test_metrics.json",
+      "status": "added",
+      "before_sha256": null,
+      "after_sha256": "75ef5bc9391a8ad94ccaba6cc681e16fa4d61ddca2854a4d0d52a736f3e04d4f"
+    },
+    {
+      "path": "runs/hetero_smoke_seed2022/test_predictions.csv",
+      "status": "added",
+      "before_sha256": null,
+      "after_sha256": "85f20e9929b20af7503e8258a3166d8f058632ccb7d1d02b0b4ba82bbfdbf67b"
+    },
+    {
+      "path": "scripts/run_heterogeneous_ablations.py",
+      "status": "added",
+      "before_sha256": null,
+      "after_sha256": "cf2eacb26636e6f2a0d4c13d458e5c6701b800bfd0286d59de7d5250bf151c2f"
+    },
+    {
+      "path": "stkg_cll_poi/__init__.py",
+      "status": "modified",
+      "before_sha256": "27e8febb48ada44153ea2add9969a2c50a9831a74d9755fdd53c549a888b1cc2",
+      "after_sha256": "ffb3a541d6d590ae2369dd022dda48d20ad3fb31006feaa01661f9985cc35e20"
+    },
+    {
+      "path": "stkg_cll_poi/__main__.py",
+      "status": "modified",
+      "before_sha256": "9f38fa8301301c3ed3232a733e27800da635f966288d7bfc80fa6a68f49188d3",
+      "after_sha256": "13f26702e7bc86306abe0f2b81d35b8b96e1848019b80cd3d14dff439dfdbeef"
+    },
+    {
+      "path": "stkg_cll_poi/experiment.py",
+      "status": "modified",
+      "before_sha256": "ba499f282eee8a0704f3ba5cbb4c8df8f90087b124a6ee73eea5aa04d9c8a32c",
+      "after_sha256": "faad6a474848f2a629cbbbda9b6f65e935fde312ad66f4a25d73902d123854b8"
+    },
+    {
+      "path": "stkg_cll_poi/features.py",
+      "status": "modified",
+      "before_sha256": "56a90728c41cc591178c2f5280e304bf147fb075d25df9799e08391dc9eee78f",
+      "after_sha256": "298147c1b45b5447772c8c8911a1cbea510ff36e10de47f848e7e6a6850fdca4"
+    },
+    {
+      "path": "stkg_cll_poi/hetero_model.py",
+      "status": "added",
+      "before_sha256": null,
+      "after_sha256": "df3ce6f1aca51c34f5b6805ae5bf4049fc7a39f64113411a782e692af5cefe90"
+    },
+    {
+      "path": "stkg_cll_poi/heterogeneous.py",
+      "status": "added",
+      "before_sha256": null,
+      "after_sha256": "1ba5a94628c11cf8774d6930a19d6743b2f95f70955ddee5f8cf5186676cb274"
+    },
+    {
+      "path": "stkg_cll_poi/model.py",
+      "status": "modified",
+      "before_sha256": "0a391bda7195a8eead68ca8a3fdeebf1fc382ef07a25d5865f1f2c10f9a6c693",
+      "after_sha256": "774c14d65c813635f034e9a6933016f3f0baa4b0bbd0a83a7284b5f2782be218"
+    },
+    {
+      "path": "stkg_cll_poi/spatial.py",
+      "status": "added",
+      "before_sha256": null,
+      "after_sha256": "c59cb429fcbfb7503c52e7f5a2afbb762259904fda5c98b2023cd1e3249e9636"
+    },
+    {
+      "path": "tests/test_heterogeneous.py",
+      "status": "added",
+      "before_sha256": null,
+      "after_sha256": "c94fbd5459bac3fa782ca3f9846e10fe402bcc62a86fb161b7e72c336c58856f"
+    }
+  ],
+  "manifest_files": [
+    "docs/CHANGES.md",
+    "outputs/change_manifest.json"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "method": "Pseudo-mask one observed end at a time. Each visit full mean excludes the heldout measurement; prefix mean excludes current/future ends. This evaluates observed ends, which may differ systematically from truly missing ends.",
+  "retrospective_full_visit": {
+    "n": 5590,
+    "mae_seconds": 7.716644728024294,
+    "median_absolute_error_seconds": 2.8857461856253552,
+    "rmse_seconds": 21.01140191355284,
+    "p90_absolute_error_seconds": 18.148331306943767
+  },
+  "causal_prefix_available_subset": {
+    "n": 5539,
+    "mae_seconds": 7.518984434207892,
+    "median_absolute_error_seconds": 2.7389969999999266,
+    "rmse_seconds": 20.61337992757558,
+    "p90_absolute_error_seconds": 17.988194281453243
+  },
+  "causal_prefix_coverage_among_retrospective_cases": 0.99087656529517,
+  "next_start_gap_baseline": {
+    "n": 5590,
+    "mae_seconds": 11.128040969767431,
+    "median_absolute_error_seconds": 2.4074540000000297,
+    "rmse_seconds": 39.56211483211383,
+    "p90_absolute_error_seconds": 24.958301399999872
+  },
+  "retrospective_at_gap_cap": 2545,
+  "causal_at_gap_cap": 2640
+}

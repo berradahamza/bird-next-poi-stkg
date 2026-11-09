@@ -1,0 +1,44 @@
+/workspace/scratch/93c24f23b7b8/STKG_CLL_POI/tests/test_heterogeneous.py:35: UserWarning: POI/ROOM floor conflicts: ['1_5892']; spatial file is authoritative
+  cls.graph = build_heterogeneous_graph(cls.art["items"], cls.behavior, cls.spatial)
+test_ablations_have_the_expected_relations_and_finite_gradients (test_heterogeneous.HeterogeneousTests.test_ablations_have_the_expected_relations_and_finite_gradients) ... /workspace/scratch/93c24f23b7b8/STKG_CLL_POI/tests/test_heterogeneous.py:143: UserWarning: POI/ROOM floor conflicts: ['1_5892']; spatial file is authoritative
+  graph = build_heterogeneous_graph(self.art["items"], self.behavior, self.spatial, variant)
+ok
+test_conflicting_duplicates_and_nonfinite_features_are_reported (test_heterogeneous.HeterogeneousTests.test_conflicting_duplicates_and_nonfinite_features_are_reported) ... ok
+test_empty_subjects_and_missing_room_are_explicit (test_heterogeneous.HeterogeneousTests.test_empty_subjects_and_missing_room_are_explicit) ... ok
+test_explicit_vertical_edge_preserved_without_cross_floor_geometry (test_heterogeneous.HeterogeneousTests.test_explicit_vertical_edge_preserved_without_cross_floor_geometry) ... ok
+test_frozen_run_rejects_tampering_and_heldout_provenance (test_heterogeneous.HeterogeneousTests.test_frozen_run_rejects_tampering_and_heldout_provenance) ... ok
+test_invalid_topology_warns_and_never_invents_reverse (test_heterogeneous.HeterogeneousTests.test_invalid_topology_warns_and_never_invents_reverse) ... ok
+test_metadata_ablation_and_optional_geometry (test_heterogeneous.HeterogeneousTests.test_metadata_ablation_and_optional_geometry) ... /workspace/scratch/93c24f23b7b8/STKG_CLL_POI/tests/test_heterogeneous.py:176: UserWarning: POI/ROOM floor conflicts: ['1_5892']; spatial file is authoritative
+  no_metadata = build_heterogeneous_graph(self.art["items"], self.behavior, self.spatial, "poi_room", room_features=False)
+/workspace/scratch/93c24f23b7b8/STKG_CLL_POI/tests/test_heterogeneous.py:188: UserWarning: POI/ROOM floor conflicts: ['1_5892']; spatial file is authoritative
+  graph = build_heterogeneous_graph(self.art["items"], self.behavior, self.spatial, midpoint=True)
+ok
+test_metadata_is_retained_but_text_is_not_encoded (test_heterogeneous.HeterogeneousTests.test_metadata_is_retained_but_text_is_not_encoded) ... ok
+test_original_transition_values_are_unchanged (test_heterogeneous.HeterogeneousTests.test_original_transition_values_are_unchanged) ... ok
+test_poi_only_one_layer_reproduces_legacy_behavior_formula (test_heterogeneous.HeterogeneousTests.test_poi_only_one_layer_reproduces_legacy_behavior_formula) ... /workspace/scratch/93c24f23b7b8/STKG_CLL_POI/tests/test_heterogeneous.py:235: UserWarning: POI/ROOM floor conflicts: ['1_5892']; spatial file is authoritative
+  graph = build_heterogeneous_graph(self.art["items"], self.behavior, self.spatial, "poi_only", layers=1)
+ok
+test_spatial_signal_cannot_be_silently_disabled_by_one_layer (test_heterogeneous.HeterogeneousTests.test_spatial_signal_cannot_be_silently_disabled_by_one_layer) ... ok
+test_spatial_topology_exactly_matches_input (test_heterogeneous.HeterogeneousTests.test_spatial_topology_exactly_matches_input) ... ok
+test_spatial_type_changes_poi_embeddings (test_heterogeneous.HeterogeneousTests.test_spatial_type_changes_poi_embeddings) ... ok
+test_static_edges_survive_complete_behavior_dropout (test_heterogeneous.HeterogeneousTests.test_static_edges_survive_complete_behavior_dropout) ... ok
+test_static_normalization_is_per_floor_for_midpoints (test_heterogeneous.HeterogeneousTests.test_static_normalization_is_per_floor_for_midpoints) ... ok
+test_two_hops_carry_peer_poi_information (test_heterogeneous.HeterogeneousTests.test_two_hops_carry_peer_poi_information) ... /workspace/scratch/93c24f23b7b8/STKG_CLL_POI/tests/test_heterogeneous.py:221: UserWarning: POI/ROOM floor conflicts: ['1_5892']; spatial file is authoritative
+  graph = build_heterogeneous_graph(self.art["items"], self.behavior, self.spatial, variant)
+ok
+test_validation_and_test_cannot_change_behavior_or_normalization (test_heterogeneous.HeterogeneousTests.test_validation_and_test_cannot_change_behavior_or_normalization) ... /workspace/scratch/93c24f23b7b8/STKG_CLL_POI/tests/test_heterogeneous.py:123: UserWarning: POI/ROOM floor conflicts: ['1_5892']; spatial file is authoritative
+  self.assertEqual(build_heterogeneous_graph(self.art["items"], behavior, self.spatial), self.graph)
+ok
+test_attention_baseline_ignores_padded_future (test_pipeline.ScientificIntegrityTests.test_attention_baseline_ignores_padded_future) ... ok
+test_contrast_and_availability_checks (test_pipeline.ScientificIntegrityTests.test_contrast_and_availability_checks) ... ok
+test_coverage_and_pairing_audit (test_pipeline.ScientificIntegrityTests.test_coverage_and_pairing_audit) ... ok
+test_future_end_does_not_enter_causal_dwell (test_pipeline.ScientificIntegrityTests.test_future_end_does_not_enter_causal_dwell) ... ok
+test_future_mutations_cannot_change_prefix_features (test_pipeline.ScientificIntegrityTests.test_future_mutations_cannot_change_prefix_features) ... ok
+test_provenance_not_used_by_encoder_and_relations_receive_gradients (test_pipeline.ScientificIntegrityTests.test_provenance_not_used_by_encoder_and_relations_receive_gradients) ... ok
+test_subject_permutation_preserves_global_annotation_counts (test_pipeline.ScientificIntegrityTests.test_subject_permutation_preserves_global_annotation_counts) ... ok
+test_test_visitors_are_excluded_from_behavior_graph (test_pipeline.ScientificIntegrityTests.test_test_visitors_are_excluded_from_behavior_graph) ... ok
+
+----------------------------------------------------------------------
+Ran 25 tests in 2.450s
+
+OK
